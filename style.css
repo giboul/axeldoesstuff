@@ -28,7 +28,7 @@
 :root {
     --color-background-main: #E1E3E6;
     --color-background-secondary: #909499;
-    --color-background-contrast: #1D1F20;
+    --color-background-contrast: #F2F0EF;
     --color-background-overlay: #3B3D40;
     --color-content-lead: #000000;
     --color-content-main: #222426;
@@ -45,19 +45,22 @@
 body {
     font-family: var(--font-primary);
     color: var(--color-content-lead);
-    margin: 0px;
     background-color: var(--color-background-main);
+    display: block;
+    margin: auto;
 }
 
 h1 {
     font-family: var(--font-title);
     color: var(--color-content-main);
-    margin: 1%;
+    margin: 2% 10% 2% 10%;
+    position: center;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 0 0 0 0;
 }
 
 em {
@@ -71,11 +74,14 @@ em {
 nav.header {
     font-size: 1em;
     font-weight: 800;
+    margin: 0%;
+    background-color: var(--color-background-contrast);
     ul {
+        margin: 0;
         list-style-type: none;
         li {
-            padding: 16px;
-            text-align: center;
+            padding: 16px 0 16px 16px;
+            text-align: left;
             display: inline-block;
             a {
                 color: var(--color-content-main);
