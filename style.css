@@ -50,7 +50,8 @@ body {
     margin: auto;
 }
 
-h1 {
+h1, h2 {
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     font-family: var(--font-title);
     color: var(--color-content-main);
     margin: 2% 10% 2% 10%;
@@ -72,6 +73,7 @@ em {
 }
 
 nav.header {
+    font-family: var(--font-title);
     font-size: 1em;
     font-weight: 800;
     margin: 0%;
@@ -89,4 +91,13 @@ nav.header {
             }
         }
     }
+}
+
+footer {
+    font-family: var(--font-primary);
+    background-color: var(--color-background-contrast);
+    color: var(--color-content-main);
+    position: center;
+    margin: 0%;
+    padding: 16px 0 16px 16px;
 }
