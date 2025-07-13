@@ -1,16 +1,16 @@
 @font-face {
     font-family: "Linux Libertine";
-    src: url(libertine/LinLibertine_R.ttf);
+    src: url(fontslibertine/LinLibertine_R.ttf);
 }
 
 @font-face {
     font-family: "Linux Libertine Italic";
-    src: url(libertine/LinLibertine_RI.ttf);
+    src: url(fonts/libertine/LinLibertine_RI.ttf);
 }
 
 @font-face {
     font-family: "Trajan";
-    src: url(trajan.ttf);
+    src: url(fonts/trajan.ttf);
 }
 
 @media (prefers-color-scheme: dark) {
