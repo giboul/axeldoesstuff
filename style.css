@@ -101,3 +101,9 @@ footer {
     margin: 0%;
     padding: 16px 0 16px 16px;
 }
+
+div.centered-text {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
