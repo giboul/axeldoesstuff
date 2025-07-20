@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Linux Libertine";
-    src: url(fontslibertine/LinLibertine_R.ttf);
+    src: url(fonts/libertine/LinLibertine_R.ttf);
 }
 
 @font-face {
@@ -40,6 +40,7 @@
 
 *, *::before,*::after {
     box-sizing: border-box;
+    font-size: 1rem;
 }
 
 body {
@@ -54,14 +55,16 @@ h1, h2 {
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     font-family: var(--font-title);
     color: var(--color-content-main);
-    margin: 2% 10% 2% 10%;
-    position: center;
+    margin: 2% 10% 2% 0%;
 }
 
-.container {
+img {
+    max-width: 100%;
+}
+
+.grid-container {
     display: grid;
     grid-template-columns: 50% 50%;
-    margin: 0 0 0 0;
 }
 
 em {
@@ -98,8 +101,7 @@ footer {
     background-color: var(--color-background-contrast);
     color: var(--color-content-main);
     position: center;
-    margin: 0%;
-    padding: 16px 0 16px 16px;
+    padding: 16px 0em 16px 16px;
 }
 
 div.centered-text {
