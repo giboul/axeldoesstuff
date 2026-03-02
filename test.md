@@ -2,11 +2,12 @@
 title: Test
 ---
 # Some title
-# other
 
 Some text with an image
 
 <img src="images/Trift-drawing-low.png">
+
+## Other title
 
 Pandoc is a Haskell library for converting from one markup format to another, and a command-line tool that uses this library.
 

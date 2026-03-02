@@ -1,18 +1,37 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
-    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
-    <base href=".">
-    <link rel="stylesheet" href="style.css">
-    <title> N'ouvrez pas ce site. </title>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Test</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 <nav class="header">
     <ul>
-        <li><a href="index.html">Site d'Axel</a> </li>
+        <li><a href="Axel.html">Site d'Axel</a> </li>
         <li><a href="Jardin de Laure.html">Jardin de Laure(dinateur)</a></li>
         <li><a href="Trift.html">Trift</a></li>
         <li><a href="Mamacita.html">Mamacita</a></li>
+        <li><a href="index.html">Index</a></li>
     </ul>
 </nav>
 <div class="main-sheet">
@@ -20,17 +39,18 @@
 <h1 class="title">Test</h1>
 </header>
 <nav id="TOC" role="doc-toc">
-<!--  -->
-<h2>Table des matières</h2>
+<h2 id="toc-title">Table des matières</h2>
 <ul class="incremental">
-<li><a href="#some-title">Some title</a></li>
-<li><a href="#other">other</a></li>
+<li><a href="#some-title" id="toc-some-title">Some title</a>
+<ul class="incremental">
+<li><a href="#other-title" id="toc-other-title">Other title</a></li>
+</ul></li>
 </ul>
 </nav>
 <h1 id="some-title">Some title</h1>
-<h1 id="other">other</h1>
 <p>Some text with an image</p>
 <p><img src="images/Trift-drawing-low.png"></p>
+<h2 id="other-title">Other title</h2>
 <p>Pandoc is a Haskell library for converting from one markup format to
 another, and a command-line tool that uses this library.</p>
 <p>Pandoc can convert between numerous markup and word processing
@@ -57,8 +77,8 @@ While conversions from pandoc’s Markdown to all formats aspire to be
 perfect, conversions from formats more expressive than pandoc’s Markdown
 can be expected to be lossy.</p>
 </div>
+</body>
 <footer>
     Contact : attrape-moi@si.tu.peux
 </footer>
-</body>
 </html>

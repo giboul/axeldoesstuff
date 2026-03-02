@@ -22,6 +22,7 @@
         --color-content-lead: #FFFFFF;
         --color-content-main: #E1E3E6;
         --color-content-secondary: #909499;
+        --color-link: #FD7E49;
         --font-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
     }
 }
@@ -34,6 +35,7 @@
     --color-content-lead: #000000;
     --color-content-main: #222426;
     --color-content-secondary: #1D1F20;
+    --color-link: #0282B6;
     --font-title: "Trajan";
     --font-primary: "Linux Libertine";
     --font-italic: "Linux Libertine Italic";
@@ -51,6 +53,7 @@ body {
     background-color: var(--color-background-secondary);
     display: block;
     margin: 0;
+    height: 100vh;
 }
 
 h1, h2 {
@@ -58,6 +61,7 @@ h1, h2 {
     font-family: var(--font-title);
     color: var(--color-content-main);
     margin: 2% 10% 2% 0%;
+    scroll-margin-top: 4rem; 
 }
 
 img {
@@ -68,6 +72,7 @@ img {
 .grid-container {
     display: grid;
     grid-template-columns: 50% 50%;
+    background-color: var(--color-background-main);
 }
 
 em {
@@ -82,7 +87,7 @@ ul {
     margin: 0;
     list-style-type: none;
     li {
-        padding: 1rem 0rem 0rem 1rem;
+        padding: 0.5rem 0rem 0rem 0.5rem;
         text-align: left;
         a {
             color: var(--color-content-main);
@@ -122,9 +127,10 @@ div.main-sheet {
     position: center;
     margin: 0rem auto 0rem auto;
     width: 80%;
-    min-width: 20rem;
     padding: 2rem;
     background-color: var(--color-background-main);
+    min-width: 20rem;
+    min-height: 95%;
 }
 
 footer {
@@ -134,4 +140,29 @@ footer {
     position: center;
     padding: 1rem;
     min-width: 20rem;
+}
+
+th {
+    text-align: left;
+}
+
+a {
+    color: var(--color-link);
+}
+
+a.icon {
+    padding-inline-start: 1.5em;
+    text-decoration: none;
+    user-select: auto;
+}
+a.icon:hover {
+    text-decoration: underline;
+}
+a.file {
+    background : url("./images/file-icon.png") left top no-repeat;
+    width: 1rem;
+}
+a.dir {
+    background : url("./images/folder-icon.png") left top no-repeat;
+    width: 1rem;
 }
