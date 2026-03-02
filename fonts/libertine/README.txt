@@ -25,7 +25,7 @@ and the OTF/SVG "LinuxLibertine O" and "Linux Biolinum O".
 So that both types can be installed and used parallely.
 Most often TTF is the better supported format though OTF has advances in printing. 
 Decide yourself what is better for your purpose. OpenType-features are equally 
-available in both fonts. Note that OpenOffice doesn’t support OTFs, yet.
+available in both fonts. Note that OpenOffice doesn't support OTFs, yet.
 
 4. THE LINUX BIOLINUM FONT FACE
 Please note: 
@@ -45,7 +45,7 @@ We publish our fonts at http://www.linuxlibertine.org/.
 7. THE UNDERLINED VARIANT
 Please note: 
 The underlined variant is recently not being maintained because its concept 
-doesn’t seem to be sofware-technically reliable and because of lack of interest.
+doesn't seem to be sofware-technically reliable and because of lack of interest.
 The advantage of this font was that g, commas, cedillas... were not overprinted 
 by the line anymore. For technical reasons the space was not underlined but 
 you could use the _ instead. In this font it had the width of the space and 
