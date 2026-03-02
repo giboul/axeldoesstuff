@@ -2,8 +2,8 @@
 
 FILE ?= test
 
-html:
-	python update_template_elements.py
+index:
+	python treemaker.py
 
 MD_FLAGS += --toc
 MD_FLAGS += -i $(FILE).md
@@ -16,3 +16,11 @@ MD_FLAGS += -V toc-title:"Table des matières"
 
 md:
 	pandoc $(MD_FLAGS)
+
+html:
+	python update_template_elements.py
+
+all:
+	make md
+	make index
+	make html

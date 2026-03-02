@@ -69,6 +69,12 @@ img {
     width: 100%;
 }
 
+/* img.overlay-container {
+    width:100%;
+    position: relative;
+    background-color: var(--color-background-main);
+} */
+
 .grid-container {
     display: grid;
     grid-template-columns: 50% 50%;
@@ -130,7 +136,12 @@ div.main-sheet {
     padding: 2rem;
     background-color: var(--color-background-main);
     min-width: 20rem;
-    min-height: 95%;
+    min-height: 100%;
+}
+
+div.centered-text{
+    text-align: center;
+    margin: auto;
 }
 
 footer {
