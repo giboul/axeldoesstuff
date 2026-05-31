@@ -1,16 +1,20 @@
 @font-face {
     font-family: "Linux Libertine";
-    src: url(fonts/libertine/LinLibertine_R.ttf);
+    src: url(_fonts/libertine/LinLibertine_R.ttf);
 }
 
 @font-face {
     font-family: "Linux Libertine Italic";
-    src: url(fonts/libertine/LinLibertine_RI.ttf);
+    src: url(_fonts/libertine/LinLibertine_RI.ttf);
 }
 
 @font-face {
     font-family: "Trajan";
-    src: url(fonts/trajan.ttf);
+    src: url(_fonts/trajan.ttf);
+}
+
+em {
+    font-family: "Linux Libertine Italic";
 }
 
 @media (prefers-color-scheme: dark) {
@@ -54,14 +58,22 @@ body {
     display: block;
     margin: 0;
     height: 100vh;
+    list-style-type: "*";
 }
 
 h1, h2 {
     text-shadow: var(--font-shadow);
     font-family: var(--font-title);
     color: var(--color-content-main);
-    margin: 2% 10% 2% 0%;
-    scroll-margin-top: 4rem; 
+    margin: 1rem;
+    /* scroll-margin-top: 1.5rem;  */
+}
+
+h1 {
+    /* background-color: var(--color-background-contrast); */
+    padding: 2rem;
+    text-align: center;
+    width: 100%;
 }
 
 img {
@@ -69,20 +81,37 @@ img {
     width: 100%;
 }
 
-/* img.overlay-container {
-    width:100%;
-    position: relative;
-    background-color: var(--color-background-main);
-} */
+figure {
+    max-width: 100%;
+    width: 100%;
+    margin: 0;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    z-index: 1;
+    img {
+        width: 100%;
+        height: 100vh;
+        object-fit: cover;
+        display: block;
+    }
+    figcaption {
+        margin-top: -100vh; /* Pull text up to overlap sticky image */
+        position: relative;
+        z-index: 10;
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 2rem;
+    }
+}
 
 .grid-container {
     display: grid;
     grid-template-columns: 50% 50%;
     background-color: var(--color-background-main);
-}
-
-em {
-    font-family: "Linux Libertine Italic";
 }
 
 .note {
@@ -91,9 +120,9 @@ em {
 
 ul {
     margin: 0;
-    list-style-type: none;
-    li {
-        padding: 0.5rem 0rem 0rem 0.5rem;
+    /* list-style-type: none; */
+    li { 
+        padding: 0.5rem 0rem 0.5rem 0rem;
         text-align: left;
         a {
             color: var(--color-content-main);
@@ -176,4 +205,28 @@ a.file {
 a.dir {
     background : url("./images/folder-icon.png") left top no-repeat;
     width: 1rem;
+}
+
+.dropdown {
+  position: relative;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: var(--color-background-contrast);
+  min-width: 130px;
+  box-shadow: 0px 8px 16px 0px var(--color-background-secondary);
+  padding: 12px 16px;
+}
+
+.dropdown:hover .dropdown-content {
+    overflow: scroll;
+    height: 20rem;
+    display: block;
+}
+
+.toc-title {
+    margin: 0;
+    padding: 0;
 }
