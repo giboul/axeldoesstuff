@@ -65,7 +65,7 @@ h1, h2 {
     text-shadow: var(--font-shadow);
     font-family: var(--font-title);
     color: var(--color-content-main);
-    margin: 1rem;
+    margin: 0;
     /* scroll-margin-top: 1.5rem;  */
 }
 

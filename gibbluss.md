@@ -4,7 +4,7 @@ title: Receuil de photos du blog de Rolland Giboulot
 
 ## Descendance de Giboulot Fernand
 
-Sous ce titre, il s'agit de présenter l'ensemble des descendants de Jules Giboulot et de Jeanne labrosse, sous une forme un peu aride mais qui permet de saisir l'ensemble des composants de la communauté dans un cadre économique en place.
+Sous ce titre, il s'agit de présenter l'ensemble des descendants de Jules Giboulot et de Jeanne Labrosse, sous une forme un peu aride mais qui permet de saisir l'ensemble des composants de la communauté dans un cadre économique en place.
 
 - Descendance de Fernand Giboulot et Camille Manzinali (05/08). De leur union, sont nés quatre enfants. Ces quatre enfants se sont mariés et ont assuré leur propre descendance :
     - Mireille Figent Giboulot, née le 14 Fevrier 1935 à l'Isle-sur-le-Doubs, et son époux Marcel Figent, tous deux décédés.
@@ -291,7 +291,7 @@ La super mamie Camille, épouse de Fernand, mère de Mireille, Roland, Denis, Je
 
 Monique, Nelly, tenant dans ses bras, Michele, fille de Monique et Jacky. Michèle est devenue elle-même, grand-mère, d'un petit Luka. Photo prise en 1956.
 
-## au mariage de Caroline
+## Au mariage de Caroline
 
 ![](gibblus/images/img00044.jpeg)
 
