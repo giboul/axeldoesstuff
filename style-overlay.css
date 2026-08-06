@@ -1,0 +1,66 @@
+*, *::before,*::after {
+    box-sizing: border-box;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-primary);
+    color: var(--color-content-lead);
+    background-color: var(--color-background-secondary);
+    display: block;
+    margin: 0;
+    height: 100vh;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.stop {
+    position: relative;
+    margin: 0;
+}
+
+.stop-media {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.stop-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.stop-media::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+}
+
+.stop-note-wrap {
+    position: relative;
+    z-index: 2;
+    padding: 0 8vw;
+    min-height: 62vh;
+}
+
+.stop-note {
+    position: relative;
+    margin-top: 0vh;
+    margin-bottom: 100vh;
+    background-color: red;
+}
+
+.test {
+    background-color: green;
+    & .inner {
+        color: red;
+    }
+}
