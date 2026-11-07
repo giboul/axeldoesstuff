@@ -1,0 +1,4 @@
+## Pause casse-crôute pour les pilotes du Mustang, Cédric et son collegue Christophe.
+
+![](img00229.jpeg)
+

@@ -1,0 +1,6 @@
+## Serre à monter
+
+![](img00185.jpeg)
+
+2. la transporter à bord du Picasso et la remonter, travail effectué par Philippe en solo.
+

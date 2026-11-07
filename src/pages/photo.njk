@@ -1,0 +1,39 @@
+---
+pagination:
+  data: collections.photos
+  size: 1
+  alias: photo
+permalink: "/gallery/{{ photo.id }}/"
+mainClass: wrap wrap--photo
+bodyClass: photo-page
+eleventyComputed:
+  title: "{{ photo.caption or 'Photo' }}"
+---
+<figure class="photo">
+  <div class="photo__frame">
+    {% photoLarge photo %}
+    {%- if photo.prev %}<a class="photo__arrow photo__arrow--prev" href="/gallery/{{ photo.prev }}/" rel="prev" aria-label="Previous photo">‹</a>{% endif %}
+    {%- if photo.next %}<a class="photo__arrow photo__arrow--next" href="/gallery/{{ photo.next }}/" rel="next" aria-label="Next photo">›</a>{% endif %}
+  </div>
+  <figcaption class="photo__info">
+    <div>
+      {%- if photo.caption %}<h1>{{ photo.caption }}</h1>{% endif %}
+      <p class="meta">{{ photo.date | readableDate }}{% for t in photo.tags %} · <a href="/gallery/?q={{ t | urlencode }}">{{ t }}</a>{% endfor %}</p>
+    </div>
+    <div class="photo__posts">
+      <p class="label">Appears in</p>
+      <ul>
+        {%- for p in photo.posts %}<li><a href="{{ p.url }}">{{ p.title }}</a></li>{% endfor %}
+      </ul>
+      <p class="photo__actions"><a href="/gallery/">← Back to the gallery</a> · <a href="{% photoFullUrl photo %}">Full size</a></p>
+    </div>
+  </figcaption>
+</figure>
+<script>
+document.addEventListener("keydown", function (e) {
+  if (e.target.matches("input, textarea")) return;
+  var go = e.key === "ArrowLeft" ? 'a[rel="prev"]' : e.key === "ArrowRight" ? 'a[rel="next"]' : e.key === "Escape" ? 'a[href="/gallery/"]' : null;
+  var a = go && document.querySelector(go);
+  if (a) location.href = a.href;
+});
+</script>

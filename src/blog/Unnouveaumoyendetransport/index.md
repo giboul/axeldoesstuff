@@ -1,0 +1,6 @@
+## Un nouveau moyen de transport?
+
+![](img00085.jpeg)
+
+Philippe vient de créer un nouveau moyen de transport, écologique et économique. Deux velos assemblés latéralement avec des barres en acier. Idéal pour des jeunes fiançés promenant future belle-maman! Il parait que le succès de curiosité est assuré. Pour la photo, Philippe et Alix ont préféré promener Axel, c'est le plus léger de la famille. Tous vos commentaires sur cet "engin" seront les bienvenus.
+
