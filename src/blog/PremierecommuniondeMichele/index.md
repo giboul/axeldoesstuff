@@ -1,6 +1,4 @@
 ## Premiere communion de Michèle
 
-![](img00023.jpeg)
-
-Gaston Waille, Michèle et Camille Giboulot.
+![Gaston Waille, Michèle et Camille Giboulot.](img00023.jpeg)
 

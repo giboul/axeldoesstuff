@@ -1,0 +1,35 @@
+{%- set c = site.comments %}
+{%- if c.provider and c.provider != "none" and comments != false %}
+<section class="comments" aria-labelledby="comments-title">
+  <h2 id="comments-title">Comments</h2>
+
+  {%- if c.provider == "cusdis" %}
+  <div id="cusdis_thread"
+    data-host="{{ c.cusdis.host }}"
+    data-app-id="{{ c.cusdis.appId }}"
+    data-page-id="{{ page.url }}"
+    data-page-url="{{ site.url }}{{ page.url }}"
+    data-page-title="{{ title }}"
+    data-theme="auto"></div>
+  <script async defer src="{{ c.cusdis.host }}/js/cusdis.es.js"></script>
+
+  {%- elif c.provider == "giscus" %}
+  <script src="https://giscus.app/client.js"
+    data-repo="{{ c.giscus.repo }}"
+    data-repo-id="{{ c.giscus.repoId }}"
+    data-category="{{ c.giscus.category }}"
+    data-category-id="{{ c.giscus.categoryId }}"
+    data-mapping="pathname"
+    data-reactions-enabled="1"
+    data-input-position="top"
+    data-theme="preferred_color_scheme"
+    data-lang="{{ site.language }}"
+    data-loading="lazy"
+    crossorigin="anonymous" async></script>
+
+  {%- elif c.provider == "isso" %}
+  <script data-isso="{{ c.isso.server }}/" data-isso-require-author="true" src="{{ c.isso.server }}/js/embed.min.js"></script>
+  <section id="isso-thread" data-isso-id="{{ page.url }}" data-title="{{ title }}"></section>
+  {%- endif %}
+</section>
+{%- endif %}

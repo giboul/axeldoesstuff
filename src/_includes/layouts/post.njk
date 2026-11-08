@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+mainClass: wrap wrap--post
+---
+<article class="post">
+  <header class="post-header">
+    <p class="meta"><time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time>
+      {%- for tag in tags %}{% if tag != "posts" %} · <a href="/gallery/?q={{ tag | urlencode }}">{{ tag }}</a>{% endif %}{% endfor %}</p>
+    <h1>{{ title }}</h1>
+  </header>
+
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+
+  {%- set postPhotos = collections.photos | photosOfPost(page.url) %}
+  {%- if postPhotos.length %}
+  <p class="post-gallery-link"><a href="/gallery/?post={{ page.url | urlencode }}">See the {{ postPhotos.length }} photo{% if postPhotos.length > 1 %}s{% endif %} from this post in the gallery →</a></p>
+  {%- endif %}
+
+  {%- set older = collections.posts | getNextCollectionItem(page) %}
+  {%- set newer = collections.posts | getPreviousCollectionItem(page) %}
+  <nav class="post-nav" aria-label="More posts">
+    {% if newer %}<a class="post-nav__newer" href="{{ newer.url }}"><span>Newer</span>{{ newer.data.title }}</a>{% else %}<span></span>{% endif %}
+    {% if older %}<a class="post-nav__older" href="{{ older.url }}"><span>Older</span>{{ older.data.title }}</a>{% endif %}
+  </nav>
+
+  {% include "partials/comments.njk" %}
+</article>

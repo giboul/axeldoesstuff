@@ -25,14 +25,14 @@ eleventyComputed:
       <ul>
         {%- for p in photo.posts %}<li><a href="{{ p.url }}">{{ p.title }}</a></li>{% endfor %}
       </ul>
-      <p class="photo__actions"><a href="/gallery/">← Back to the gallery</a> · <a href="{% photoFullUrl photo %}">Full size</a></p>
+      <p class="photo__actions"><a href="/gallery/" rel="up">← Back to the gallery</a> · <a href="{% photoFullUrl photo %}">Full size</a></p>
     </div>
   </figcaption>
 </figure>
 <script>
 document.addEventListener("keydown", function (e) {
   if (e.target.matches("input, textarea")) return;
-  var go = e.key === "ArrowLeft" ? 'a[rel="prev"]' : e.key === "ArrowRight" ? 'a[rel="next"]' : e.key === "Escape" ? 'a[href="/gallery/"]' : null;
+  var go = e.key === "ArrowLeft" ? 'a[rel="prev"]' : e.key === "ArrowRight" ? 'a[rel="next"]' : e.key === "Escape" ? 'a[rel="up"]' : null;
   var a = go && document.querySelector(go);
   if (a) location.href = a.href;
 });

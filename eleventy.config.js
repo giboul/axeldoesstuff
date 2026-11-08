@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
 import Image, { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 
 const INPUT = "src";
 const POSTS_GLOB = `${INPUT}/blog/**/*.md`;
@@ -63,6 +64,10 @@ const MONTHS = ["January", "February", "March", "April", "May", "June", "July",
   "August", "September", "October", "November", "December"];
 
 export default function (eleventyConfig) {
+  // On GitHub Pages the site lives under /<repo>/ : the build sets PATH_PREFIX and this
+  // plugin rewrites every absolute link (/gallery/, /img/…) to include it.
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+
   // -------------------------------------------------------------------------
   // Images inside posts: every <img> is resized and converted automatically.
   // -------------------------------------------------------------------------
@@ -158,6 +163,13 @@ export default function (eleventyConfig) {
       const pic = inGallery ? `<a href="/gallery/${photoId(abs)}/">${html}</a>` : html;
       return `<figure class="post-figure">${pic}${caption ? `<figcaption>${md.utils.escapeHtml(caption)}</figcaption>` : ""}</figure>`;
     };
+  });
+
+  // A post that opens with a heading equal to its title (the imported posts do):
+  // the layout already shows the title, so drop the heading instead of showing it twice.
+  eleventyConfig.addPreprocessor("leading-title-heading", "md", (data, content) => {
+    const m = /^\s*#{1,6}\s+(.+?)\s*#*\s*(\r?\n|$)/.exec(content);
+    if (m && (!data.title || m[1] === data.title)) return content.slice(m[0].length);
   });
 
   // A <figure> is not allowed inside a <p>, so unwrap it.
@@ -267,5 +279,6 @@ export default function (eleventyConfig) {
     dir: { input: INPUT, includes: "_includes", data: "_data", output: "_site" },
     markdownTemplateEngine: false, // grandpa's Markdown is plain Markdown, never template code
     htmlTemplateEngine: "njk",
+    pathPrefix: process.env.PATH_PREFIX || "/",
   };
 }

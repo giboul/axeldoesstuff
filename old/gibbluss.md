@@ -34,7 +34,7 @@ Sous ce titre, il s'agit de présenter l'ensemble des descendants de Jules Gibou
         - Frédérique Thomas (33 ans) et son compagnon Philippe Couffet et leurs enfants:
             - Samuel Thomas (1 an) et
             - Mathilde Thomas.
-- Descendance de Jacques Giboulot (Jacky) et Monique Heisser (Seloncourt) :
+- Descendance de Jacques Giboulot (Jacky, Jacquot ?) et Monique Heisser (Seloncourt) :
     - Michèle Mathey Giboulot,
         - Emmanuelle Mathey,
         - Rémi Mathey et Amandine Laurency.
@@ -67,67 +67,36 @@ Sous ce titre, il s'agit de présenter l'ensemble des descendants de Jules Gibou
 
 ![](gibblus/images/img00000.jpeg)
 
-## Blussans : adresse familiale
+![Adresse familiale](gibblus/images/blussans-carte.png)
 
-![](gibblus/images/blussans-carte.png)
+![Maison au 11 Rue des Géraniums.](gibblus/images/img00002.jpeg)
 
-Maison au 11 Rue des Géraniums.
+![Ecole communale de Blussans, année 1920-1921](gibblus/images/img00003.jpeg)
 
-## La maison familiale à blussans
+![Maman Lina, grand-mère de Fernand, Jacques et Paulette. Celle qui a élevé les trois orphelins. Au fond, deux petites filles : Mireille et Monique?](gibblus/images/img00004.jpeg)
 
-![](gibblus/images/img00002.jpeg)
+![Lina, Camille et Roland](gibblus/images/img00005.jpeg)
 
-## Ecole communale de Blussans année 1920-1921
+![Une autre photo de maman Lina.](gibblus/images/img00006.jpeg)
 
-![](gibblus/images/img00003.jpeg)
+![Les cousins 1940/1941: Roland, Monique et Mireille à Blussans.](gibblus/images/img00007.jpeg)
 
-## Maman Lina, grand-mère de Fernand, Jacques et Paulette
+![Jeunesse de Blussans. En 1925, environ. Au centre, tout jeune Jacquot, environ 15 ans? A sa gauche, peut-etre Fernand.](gibblus/images/img00009.jpeg)
 
-![](gibblus/images/img00004.jpeg)
+![Fernand s'etait engagé dans l'aviation à Strasbourg à l'âge de 16 ans.](gibblus/images/img00008.jpeg)
 
-Celle qui a élevé les trois orphelins. Au fond, deux petites filles : Mireille et Monique?
 
-## Lina, Camille et Roland à Blussans
+![Paulette a 15 ans.](gibblus/images/img00010.jpeg)
 
-![](gibblus/images/img00005.jpeg)
+![La fraterie, les trois fondateurs de la communauté : Fernand, en pull rayé, Paulette, Jacquot.](gibblus/images/img00011.jpeg)
 
-## Maman Lina
+Paulette, la plus jeune, très jeune orpheline, élevée par "maman Lina", sa grand-mére, papa léon son grand-pére et ses tantes : Marguerite, Gaby, Berthe, Julia et son mari Samuel. Paulette se rendait tous les jours à pied à l'école à l'Isle-sur-le-Doubs (soit 9 kilomètres aller-retour), et étudiait le soir à la lumiére d'une chandelle ou d'une lampe à pétrole, ce qui lui a permis de devenir institutrice. Jacquot, cadre chez Peugeot, fait prisonnier par les Allemands, réussit à s'évader lors de sa deuxieme tentative, sérieusement blessé lors de la premiére tentative; Père de Monique et Nelly. Fernand était l'ainé (voir sa photo individuelle).
 
-![](gibblus/images/img00006.jpeg)
-
-Une autre photo de maman Lina.
-
-## Les cousins 1940/1941
-
-![](gibblus/images/img00007.jpeg)
-
-Roland, Monique et Mireille à Blussans.
-
-## Fernand aviateur
-
-![](gibblus/images/img00008.jpeg)
-
-Fernand s'etait engagé dans l'aviation à Strasbourg à l'âge de 16 ans.
-
-## Jeunesse de Blussans
-
-![](gibblus/images/img00009.jpeg)
-
-En 1925, environ. Au centre, tout jeune Jacquot, environ 15 ans? A sa gauche, peut-etre Fernand.
-
-## Paulette a 15 ans
-
-![](gibblus/images/img00010.jpeg)
-
-## La fratrie
-
-![](gibblus/images/img00011.jpeg)
-
-Les trois fondateurs de la communauté : Fernand, en pull rayé, Paulette, Jacquot. Paulette, la plus jeune, très jeune orpheline, élevée par "maman Lina", sa grand-mére, papa léon son grand-pére et ses tantes : Marguerite, Gaby, Berthe, Julia et son mari Samuel. Paulette se rendait tous les jours à pied à l'école à l'Isle-sur-le-Doubs (soit 9 kilomètres aller-retour), et étudiait le soir à la lumiére d'une chandelle ou d'une lampe à pétrole, ce qui lui a permis de devenir institutrice. Jacquot, cadre chez Peugeot, fait prisonnier par les Allemands, réussit à s'évader lors de sa deuxieme tentative, sérieusement blessé lors de la premiére tentative; Père de Monique et Nelly. Fernand était l'ainé (voir sa photo individuelle).
+![Blussans - 1939 ou 1940](gibblus/images/img00016.jpeg)
 
 ## Fernand
 
-![](gibblus/images/img00012.jpeg)
+![Fernand](gibblus/images/img00012.jpeg)
 
 Né le 13 Juin 1908. Très jeune orphelin de guerre. À 18 ans, il s'engage à Belfort au 37e  régiment d'aviation. De 1927 à 1931, il participe au Maroc, aux opérations de pacification dans les régions de Midlet, Meknès et Fez. Le 1er Avril 1944, il participe à la création du maquis du Lomont. Lors d'une opération à Villerot, il franchit sous le feu les lignes allemandes, parvenant à prévenir le maquis de l'attaque, sauvant ainsi ses camarades. Cet acte de courage lui vaut une citation à l'ordre de la division et l'attribution de la croix de guerre avec étoile d'argent.
 
@@ -144,10 +113,6 @@ Né le 13 Juin 1908. Très jeune orphelin de guerre. À 18 ans, il s'engage à B
 ![](gibblus/images/img00015.jpeg)
 
 Pas de bonnes fêtes familiales sans le talent XXL d'amuseur et d'animateur de "l'oncle André".
-
-## Blussans - 1939 ou 1940
-
-![](gibblus/images/img00016.jpeg)
 
 ## La moto familiale
 
@@ -173,9 +138,7 @@ Suzanne Pelletier dite "Zonzon", cousine germaine de Fernand, Jacques et Paulett
 
 ## L'Isle Novembre 1978
 
-![](gibblus/images/img00021.jpeg)
-
-Camille, Mireille et son fils Fréderic, tous trois décédés.
+![Camille, Mireille et son fils Fréderic, tous trois décédés.](gibblus/images/img00021.jpeg)
 
 ## Jacquot, Georgette, Mireille et Camille
 
@@ -183,15 +146,11 @@ Camille, Mireille et son fils Fréderic, tous trois décédés.
 
 ## Premiere communion de Michèle
 
-![](gibblus/images/img00023.jpeg)
-
-Gaston Waille, Michèle et Camille Giboulot.
+![Gaston Waille, Michèle et Camille Giboulot.](gibblus/images/img00023.jpeg)
 
 ## Les cousins Poligny  vers 1956
 
-![](gibblus/images/img00024.jpeg)
-
-Gérard, Michèle et, Roland. Ils avaient 20 ans, il y a bien longtemps...
+![Gérard, Michèle et, Roland. Ils avaient 20 ans, il y a bien longtemps...](gibblus/images/img00024.jpeg)
 
 ## Réunion Sur-les-Roches
 
@@ -438,7 +397,7 @@ Site internet: www.didierfigent.com
 
 Avec Yves, Mauricette et Franck.
 
-## Loly et Caroline-Mariage de Caroline
+## Loly et Caroline - Mariage de Caroline
 
 ![](gibblus/images/img00067.jpeg)
 
@@ -520,15 +479,15 @@ Discussion complice entre le père et le fils.
 
 Anita la "mère" mennonite de Loly. Un coeur d'or et une fameuse cuisinière.
 
-## Philippe et Loly
+## Mariage de Philippe et Loly
 
-![](gibblus/images/img00082.jpeg)
+![Mariage à Chihuahua, le 14 Novembre 1992.](gibblus/images/img00082.jpeg)
 
-Mariage à Chihuahua, le 14 Novembre 1992.
-
-## Philippe, Roland mariage de Philippe
+![photo de mariage - Chihuahua - Novembre 2008](gibblus/images/img00140.jpeg)
 
 ![](gibblus/images/img00083.jpeg)
+
+![Alix et Axel](gibblus/images/img00141.jpeg)
 
 ## Philippe et Axel à Chihuahua
 
@@ -536,7 +495,7 @@ Mariage à Chihuahua, le 14 Novembre 1992.
 
 ## Un nouveau moyen de transport?
 
-![](gibblus/images/img00085.jpeg)
+![Bibicy](gibblus/images/img00085.jpeg)
 
 Philippe vient de créer un nouveau moyen de transport, écologique et économique. Deux velos assemblés latéralement avec des barres en acier. Idéal pour des jeunes fiançés promenant future belle-maman! Il parait que le succès de curiosité est assuré. Pour la photo, Philippe et Alix ont préféré promener Axel, c'est le plus léger de la famille. Tous vos commentaires sur cet "engin" seront les bienvenus.
 
@@ -814,14 +773,6 @@ Sur la côte pacifique du Mexique avec Loly, Axel, Alix et Vénus - Août 2008
 
 ![](gibblus/images/img00139.jpeg)
 
-## Loly et Philippe, photo de mariage - Chihuahua - Novembre 2008
-
-![](gibblus/images/img00140.jpeg)
-
-## Alix et Axel, photo de mariage également
-
-![](gibblus/images/img00141.jpeg)
-
 
 ## Yumi et son petit nounours
 
@@ -857,37 +808,23 @@ Vive les Tropiques!
 
 ## Souvenirs d'Afrique
 
-![](gibblus/images/img00149.jpeg)
+![Gabon 1971.](gibblus/images/img00149.jpeg)
 
-Gabon 1971.
+![Niger 1989](gibblus/images/img00150.jpeg)
 
-## Souvenirs d'Afrique Niger 1989
-
-![](gibblus/images/img00150.jpeg)
-
-## Souvenirs d'Afrique Côte d'Ivoire 2000
-
-![](gibblus/images/img00151.jpeg)
+![Côte d'Ivoire 2000](gibblus/images/img00151.jpeg)
 
 Acouna et son copain Matata, San-Pedro (Côte d'Ivoire) 2000.
 
-## Roland au Sénégal
+![Roland au Sénégal](gibblus/images/img00152.jpeg)
 
-![](gibblus/images/img00152.jpeg)
+![À bord de la chaloupe - Dakar - Gorée](gibblus/images/img00153.jpeg)
 
-## À bord de la chaloupe - Dakar - Gorée
+![Quand Cédric s'acharnait sur le peu de cheveux de son père à San-pédro.](gibblus/images/img00154.jpeg)
 
-![](gibblus/images/img00153.jpeg)
+![Niger 1989](gibblus/images/img00155.jpeg)
 
-## Souvenirs d'Afrique. Quand Cédric s'acharnait sur le peu de cheveux de son père à San-pédro.
-
-![](gibblus/images/img00154.jpeg)
-
-## Souvenirs d'Afrique Niger 1989, erreur
-
-![](gibblus/images/img00155.jpeg)
-
-Niger 1989. Cherchez l'erreur!
+Cherchez l'erreur!
 
 ## Roland - Riviera Maya - Mexique
 
@@ -897,11 +834,9 @@ Et vous, avez-vous penser à gratter?
 
 ## Quand Philippe appâte un crocodile...
 
-![](gibblus/images/img00157.jpeg)
+![Quand Philippe appâte un crocodile...](gibblus/images/img00157.jpeg)
 
-## ... ça marche, et après, ça court!
-
-![](gibblus/images/img00158.jpeg)
+![... ça marche, et après, ça court!](gibblus/images/img00158.jpeg)
 
 ## Philippe et sa barbiche
 
@@ -913,8 +848,6 @@ Et vous, avez-vous penser à gratter?
 
 Eh Manue! Tu n'as pas oublié le rhum?
 
-## Manue sous les tropiques 2
-
 ![](gibblus/images/img00161.jpeg)
 
 ## 1er Mai du muguet du haut des roches pour la famille Giboulot - Monique
@@ -923,31 +856,17 @@ Eh Manue! Tu n'as pas oublié le rhum?
 
 ## Vanessa et Jérôme 9 Mai 2009
 
-![](gibblus/images/img00163.jpeg)
+![Mariage de Jérôme Thomas (fils de Jeanine) et de Vanessa, le 9 Mai 2009 à Accolans (Doubs).](gibblus/images/img00163.jpeg)
 
-Mariage de Jérôme Thomas (fils de Jeanine) et de Vanessa, le 9 Mai 2009 à Accolans (Doubs).
+![Le moment est solennel...](gibblus/images/img00164.jpeg)
 
-## Vanessa et Jérôme
+![... pas tant que ça!](gibblus/images/img00165.jpeg)
 
-![](gibblus/images/img00164.jpeg)
+![Jeanine, toute nouvelle belle-mère et Jérôme](gibblus/images/img00166.jpeg)
 
-Le moment est solennel...
+![Les jeunes mariés avec les petits enfants de toutes les familles invitées.](gibblus/images/img00167.jpeg)
 
-## ... pas tant que ça!
-
-![](gibblus/images/img00165.jpeg)
-
-## Jeanine, toute nouvelle belle-mère et Jérôme
-
-![](gibblus/images/img00166.jpeg)
-
-## Les jeunes mariés avec les petits enfants de toutes les familles invitées.
-
-![](gibblus/images/img00167.jpeg)
-
-## Gourmandise, quand tu nous tiens
-
-![](gibblus/images/img00168.jpeg)
+![Gourmandise, quand tu nous tiens](gibblus/images/img00168.jpeg)
 
 ## Nathalie, compagne de Stéphane Figent et Frédérique, fille de Jeanine
 
@@ -963,11 +882,7 @@ Le moment est solennel...
 
 ## Fête dans la famille Waille
 
-![](gibblus/images/img00172.jpeg)
-
-Violette sur les genoux de Catherine, sa mère.
-
-## Fête dans la famille Waille 2
+![Violette sur les genoux de Catherine, sa mère.](gibblus/images/img00172.jpeg)
 
 ![](gibblus/images/img00173.jpeg)
 
@@ -979,27 +894,15 @@ Françine et Sylvie, l'épouse d'Éric.
 
 Ce mariage s'est déroulé le 18 Juillet 2009 à Allinges. Sophie est la petite-fille de Gérard Waille et de Françine, fille d'Yveline et de Daniel Colin. Tous nos voeux de bonheur aux jeunes mariés.
 
-## Mariage de Sophie
+![Gérard, Franck, Catherine et Françine.](gibblus/images/img00175.jpeg)
 
-![](gibblus/images/img00175.jpeg)
-
-Gérard, Franck, Catherine et Françine.
-
-## Saut de Sophie et Samuel
-
-![](gibblus/images/img00176.jpeg)
+![Saut de Sophie et Samuel.](gibblus/images/img00176.jpeg)
 
 Après leur mariage, Sophie et Samuel ont eu une idée tres personnelle de symboliser leur grand saut dans la vie, par un véritable saut dans le lac Léman : "Un grand saut dans le Leman, du bonheur pour cent ans".
 
-## Sophie, Sam
+![Sophie, Sam.](gibblus/images/img00177.jpeg)
 
-![](gibblus/images/img00177.jpeg)
-
-## Au mariage de Sophie
-
-![](gibblus/images/img00178.jpeg)
-
-Michèle, Yves et Gisèle.
+![Michèle, Yves et Gisèle.](gibblus/images/img00178.jpeg)
 
 ## Axel karaté, Juin 2009
 
@@ -1019,92 +922,64 @@ Manquent à l'appel: Franck, Pierrick Kim et Yumi, Sophie, Sam et Fabien.
 
 ![](gibblus/images/img00182.jpeg)
 
-## Anniversaire de Cedric - 31 Octobre 2009 - Fréjus
-
-![](gibblus/images/img00183.jpeg)
+![Anniversaire de Cedric - 31 Octobre 2009](gibblus/images/img00183.jpeg)
 
 Depuis, il a laissé repousser ses cheveux!
 
-## Serre achetée
+## Serre
 
-![](gibblus/images/img00184.jpeg)
+![Serre achetée](gibblus/images/img00184.jpeg)
 
 Philippe se lançe dans la culture de la spiruline à Fréjus: 
 
 1. Acheter une vielle serre d'occasion et la démonter.
 
-## Serre à monter
-
-![](gibblus/images/img00185.jpeg)
+![Serre à monter](gibblus/images/img00185.jpeg)
 
 2. la transporter à bord du Picasso et la remonter, travail effectué par Philippe en solo.
 
-## Serre couverte
 
-![](gibblus/images/img00186.jpeg)
+![Serre couverte](gibblus/images/img00186.jpeg)
 
 3. Recouvrir la serre avec 350 m2 de toile. Cett fois-çi toute la famille participe.
 
-## Serre presque prête
+![Ça prend forme.](gibblus/images/img00187.jpeg)
 
-![](gibblus/images/img00187.jpeg)
+![Axel, un peu fatigué!](gibblus/images/img00188.jpeg)
 
-Ça prend forme.
+![Un moment de détente avec deux chiens venus en visiteurs.](gibblus/images/img00189.jpeg)
 
-## Serre, repos
-
-![](gibblus/images/img00188.jpeg)
-
-Axel, un peu fatigué!
-
-## Un moment de détente avec deux chiens venus en visiteurs
-
-![](gibblus/images/img00189.jpeg)
+![1er bassin de production de spiruline](gibblus/images/img00191.jpeg)
 
 ## Sophie à Tahiti
 
-![](gibblus/images/img00190.jpeg)
-
-Voyage de noces de Sophie et Samuel à Tahiti. Février 2010.
-
-## 1er bassin de production de spiruline
-
-![](gibblus/images/img00191.jpeg)
+![Voyage de noces de Sophie et Samuel à Tahiti. Février 2010.](gibblus/images/img00190.jpeg)
 
 ## Diamond DA42
 
-![](gibblus/images/img00192.jpeg)
-
-Appareil utilisé par Cédric pour la formation des pilotes de ligne.
-
+![Appareil utilisé par Cédric pour la formation des pilotes de ligne.](gibblus/images/img00192.jpeg)
 
 ## Denis,Regine et Axel à Malpasset - Aout 2010
 
 ![](gibblus/images/img00193.jpeg)
 
-## Denis, Régine Philippe, Larissa (Côte d'Ivoire) et sa petite Noémie - Serre de philippe - Fréjus Août 2010
-
-![](gibblus/images/img00194.jpeg)
+![Denis, Régine Philippe, Larissa (Côte d'Ivoire) et sa petite Noémie - Serre de philippe](gibblus/images/img00194.jpeg)
 
 Souvenir de vacances à Frejus, 25 Août 2010.
 
 ## Roc d'Azur - Fréjus 9 octobre 2010
 
-![](gibblus/images/img00195.jpeg)
+![Axel a participé à la course VTT de 4 kilomètres (en BMX). Loly, Roland, Axel.](gibblus/images/img00195.jpeg)
 
-Axel a participé à la course VTT de 4 kilomètres (en BMX). Loly, Roland, Axel.
+![](gibblus/images/img00210.jpeg)
 
 ## Axel, champion du Var de karaté - 14 Novembre 2010
 
 ![](gibblus/images/img00196.jpeg)
 
-## Axel (en bleu)dans ses oeuvres, d'abord un bon direct du droit...
+![Axel (en bleu)dans ses oeuvres, d'abord un bon direct du droit...](gibblus/images/img00197.jpeg)
 
-![](gibblus/images/img00197.jpeg)
-
-## ... suivi d'un bon direct du gauche...
-
-![](gibblus/images/img00198.jpeg)
+![... suivi d'un bon direct du gauche...](gibblus/images/img00198.jpeg)
 
 ## Alix, Axel Noël 2010
 
@@ -1140,11 +1015,9 @@ En opération au sommet de l'OTAN.
 
 ## Yveline et Daniel
 
-![](gibblus/images/img00205.jpeg)
+![Toujours aussi amoureux... de la randonnée.](gibblus/images/img00205.jpeg)
 
-Toujours aussi amoureux... de la randonnée.
-
-## Eric,roi du musette
+## Eric,broi du musette
 
 ![](gibblus/images/img00206.jpeg)
 
@@ -1159,10 +1032,6 @@ Toujours aussi amoureux... de la randonnée.
 ## Frédérique et Mathilde
 
 ![](gibblus/images/img00209.jpeg)
-
-## Axel BMX
-
-![](gibblus/images/img00210.jpeg)
 
 ## 06 Mai 2011 : la première fraise sur le balcon - Fréjus?
 
@@ -1288,15 +1157,11 @@ Mais ou est donc passé le chien...
 
 ## Alix et le bac
 
-![](gibblus/images/img00236.jpeg)
-
-Alix presentant ses notes du bac Français : 17 de moyenne, mention très bien.
+![Alix presentant ses notes du bac Français : 17 de moyenne, mention très bien.](gibblus/images/img00236.jpeg)
 
 ## Visite à Gerard à Malange 22/08/2012
 
-![](gibblus/images/img00237.jpeg)
-
-Gérard, Denis, Monique, Roland
+![Gérard, Denis, Monique, Roland.](gibblus/images/img00237.jpeg)
 
 ## Gérard à Malange
 
@@ -1330,30 +1195,19 @@ Sur la route de Barcelone - Decembre 2012 - Loly, Axel, Alix, Philippe
 
 ## Seance de pilotage ULM pour Axel
 
-![](gibblus/images/img00244.jpeg)
-
-Debut Janvier 2013 : Axel va prendre les commandes d'un ULM.
+![Debut Janvier 2013 : Axel va prendre les commandes d'un ULM.](gibblus/images/img00244.jpeg)
 
 ## Toute la famille de Frejus
 
 ![](gibblus/images/img00245.jpeg)
 
-## Novembre 2012
+![Les mêmes plus Caroline, Pascal, Lucie et Mathis - Novembre 2012](gibblus/images/img00246.jpeg)
 
-![](gibblus/images/img00246.jpeg)
+![Philippe, Caroline, Cédric.](gibblus/images/img00247.jpeg)
 
-Les mêmes plus Caroline, Pascal, Lucie et Mathis
-![](gibblus/images/img00247.jpeg)
+![Philippe, Alix, Cédric.](gibblus/images/img00248.jpeg)
 
-Philippe, Caroline, Cédric.
-
-![](gibblus/images/img00248.jpeg)
-
-Philippe, Alix, Cédric.
-
-![](gibblus/images/img00249.jpeg)
-
-Moment de relaxe entre Cédric, Alix et Lucie.
+![Moment de relaxe entre Cédric, Alix et Lucie.](gibblus/images/img00249.jpeg)
 
 ## Axel et Cedric la Mole Saint-Tropez Juin 2013
 
@@ -1385,15 +1239,13 @@ Moment de relaxe entre Cédric, Alix et Lucie.
 
 Les enfants de Caroline et de Pascal Fallot.
 
-## Guillaume Waille,en Nouvelle-Zelande - Noel 2013
+## Guillaume Waille, en Nouvelle-Zelande - Noel 2013
 
 ![](gibblus/images/img00257.jpeg)
 
 ## Franck Waille et ses éléves
 
-![](gibblus/images/img00258.jpeg)
-
-Denier jour de classe pour Franck avant son départ pour l'université du Québec au Canada.
+![Denier jour de classe pour Franck avant son départ pour l'université du Québec au Canada.](gibblus/images/img00258.jpeg)
 
 ## De retour de Birmanie, Cédric se pose à Bangkok
 
@@ -1401,9 +1253,7 @@ Denier jour de classe pour Franck avant son départ pour l'université du Québe
 
 ## Juliette et Gabin
 
-![](gibblus/images/img00260.jpeg)
-
-Juliette, fille de Sophie Waille et de Samuel Cange, petite fille d'Yveline, découvre son petit frére Gabin, qui a vu le jour le 31 Mars 2014.
+![Juliette, fille de Sophie Waille et de Samuel Cange, petite fille d'Yveline, découvre son petit frére Gabin, qui a vu le jour le 31 Mars 2014.](gibblus/images/img00260.jpeg)
 
 ## Pierrick Waille et ses enfants, Yumi et Gabriel
 

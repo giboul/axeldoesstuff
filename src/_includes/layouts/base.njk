@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="{{ site.language }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <meta property="og:title" content="{{ title or site.title }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta name="color-scheme" content="light dark">
+  <link rel="stylesheet" href="/assets/style.css">
+  <script>
+    try { var t = localStorage.getItem("theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+</head>
+<body class="{{ bodyClass }}">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="site-title" href="/">{{ site.title }}</a>
+    <nav class="site-nav" aria-label="Main">
+      {%- set section = page.url.split("/")[1] %}
+      <a href="/blog/" {% if section == "blog" %}aria-current="page"{% endif %}>Blog</a>
+      <a href="/gallery/" {% if section == "gallery" %}aria-current="page"{% endif %}>Gallery</a>
+      <a href="/about/" {% if section == "about" %}aria-current="page"{% endif %}>About</a>
+      <button class="theme-toggle" type="button" aria-label="Switch light or dark mode" title="Light / dark">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg>
+      </button>
+    </nav>
+  </header>
+
+  <main id="main" class="{{ mainClass or 'wrap' }}">
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <p>© {{ currentYear }} {{ site.author }} · Written in Markdown, built with Eleventy</p>
+  </footer>
+
+  <script>
+    document.querySelector(".theme-toggle").addEventListener("click", function () {
+      var root = document.documentElement;
+      var dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+      root.dataset.theme = dark ? "light" : "dark";
+      try { localStorage.setItem("theme", root.dataset.theme); } catch (e) {}
+    });
+  </script>
+</body>
+</html>

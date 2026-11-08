@@ -1,6 +1,4 @@
 ## Yveline et Daniel
 
-![](img00205.jpeg)
-
-Toujours aussi amoureux... de la randonnée.
+![Toujours aussi amoureux... de la randonnée.](img00205.jpeg)
 

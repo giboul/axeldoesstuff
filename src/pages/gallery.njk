@@ -53,7 +53,7 @@ mainClass: wrap wrap--wide
   }
 
   if (post) {
-    note.innerHTML = ' from one post · <a href="/gallery/">show all</a>';
+    note.innerHTML = ' from one post · <a href="{{ '/gallery/' | url }}">show all</a>';
   }
   input.value = params.get("q") || "";
   input.addEventListener("input", apply);
