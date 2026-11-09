@@ -1,12 +1,18 @@
 ---
 layout: layouts/base.njk
 mainClass: wrap wrap--post prose
-title: About
+title: À propos
 permalink: /about/
 ---
 
-# About
+# À propos
 
-This is the family album: walks, the garden, trips and whatever else seemed worth a photo.
+Tout le contenu de ce blog est tiré du blog de Roland Giboulot.
 
-Everything here is written as simple text files. Pictures used in the blog posts show up in the gallery by themselves.
+https://gibblus.blog4ever.com/photos
+
+Ce site est maintenu par Axel Giboulot
+
++41 78 347 27 87
+
+axelgibtt@gmil.com

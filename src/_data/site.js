@@ -2,11 +2,21 @@
 // Site settings. This is the only file you need to edit to personalise the site.
 // ---------------------------------------------------------------------------
 export default {
-  title: "The Family Album",
-  author: "Grandpa",
-  description: "Walks, gardens and the odd adventure, in words and pictures.",
+  title: "Blog de la famille Giboulot",
+  author: "Roland Giboulot",
+  description: `Tout le contenu de ce blog est tiré du blog de Roland Giboulot.
+
+https://gibblus.blog4ever.com/photos
+
+Ce site est maintenu par Axel Giboulot.
+
++41 78 347 27 87
+
+axelgibtt@gmail.com
+
+Site construit avec 11ty et calqué sur https://twcarty.netlify.app/photos/.`,
   url: "https://giboul.github.io/axeldoesstuff", // the address of the site online
-  language: "en",
+  language: "fr",
 
   // ---- Comments ---------------------------------------------------------
   // provider: "none" | "cusdis" | "giscus" | "isso"

@@ -60,8 +60,9 @@ function plainText(markdown) {
     .trim();
 }
 
-const MONTHS = ["January", "February", "March", "April", "May", "June", "July",
-  "August", "September", "October", "November", "December"];
+// French month names, so the gallery search finds "janvier", "février", …
+const MONTHS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
+  "août", "septembre", "octobre", "novembre", "décembre"];
 
 export default function (eleventyConfig) {
   // On GitHub Pages the site lives under /<repo>/ : the build sets PATH_PREFIX and this
@@ -234,10 +235,10 @@ export default function (eleventyConfig) {
   // Filters
   // -------------------------------------------------------------------------
   eleventyConfig.addFilter("readableDate", (d) =>
-    new Date(d).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })
+    new Date(d).toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })
   );
   eleventyConfig.addFilter("shortDate", (d) =>
-    new Date(d).toLocaleDateString("en-GB", { day: "2-digit", month: "short", timeZone: "UTC" })
+    new Date(d).toLocaleDateString("fr-FR", { day: "2-digit", month: "short", timeZone: "UTC" })
   );
   eleventyConfig.addFilter("isoDate", (d) => new Date(d).toISOString().slice(0, 10));
   eleventyConfig.addFilter("year", (d) => new Date(d).getUTCFullYear());

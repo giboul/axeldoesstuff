@@ -14,15 +14,15 @@
   </script>
 </head>
 <body class="{{ bodyClass }}">
-  <a class="skip" href="#main">Skip to content</a>
+  <a class="skip" href="#main">Aller au contenu</a>
   <header class="site-header">
     <a class="site-title" href="/">{{ site.title }}</a>
-    <nav class="site-nav" aria-label="Main">
+    <nav class="site-nav" aria-label="Navigation principale">
       {%- set section = page.url.split("/")[1] %}
       <a href="/blog/" {% if section == "blog" %}aria-current="page"{% endif %}>Blog</a>
-      <a href="/gallery/" {% if section == "gallery" %}aria-current="page"{% endif %}>Gallery</a>
-      <a href="/about/" {% if section == "about" %}aria-current="page"{% endif %}>About</a>
-      <button class="theme-toggle" type="button" aria-label="Switch light or dark mode" title="Light / dark">
+      <a href="/gallery/" {% if section == "gallery" %}aria-current="page"{% endif %}>Galerie</a>
+      <a href="/about/" {% if section == "about" %}aria-current="page"{% endif %}>À propos</a>
+      <button class="theme-toggle" type="button" aria-label="Passer en mode clair ou sombre" title="Clair / sombre">
         <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg>
       </button>
     </nav>
@@ -33,7 +33,7 @@
   </main>
 
   <footer class="site-footer">
-    <p>© {{ currentYear }} {{ site.author }} · Written in Markdown, built with Eleventy</p>
+    <p>© {{ currentYear }} {{ site.author }} · Écrit en Markdown, généré avec Eleventy</p>
   </footer>
 
   <script>

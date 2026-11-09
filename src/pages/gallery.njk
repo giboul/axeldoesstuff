@@ -1,18 +1,18 @@
 ---
-title: Gallery
+title: Galerie
 permalink: /gallery/
 mainClass: wrap wrap--wide
 ---
 <div class="gallery-head">
-  <h1 class="page-title">Gallery</h1>
+  <h1 class="page-title">Galerie</h1>
   <form class="search" role="search" onsubmit="return false">
-    <label for="q" class="visually-hidden">Search the photos</label>
+    <label for="q" class="visually-hidden">Rechercher dans les photos</label>
     <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" d="m21 21-4.3-4.3M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15Z"/></svg>
-    <input id="q" type="search" placeholder="Search names, captions, post text, months…" autocomplete="off">
+    <input id="q" type="search" placeholder="Rechercher un nom, une légende, un texte d'article, un mois…" autocomplete="off">
   </form>
   {%- set allTags = [] %}
   {%- for photo in collections.photos %}{% for t in photo.tags %}{% if not (t in allTags) %}{% set allTags = (allTags.push(t), allTags) %}{% endif %}{% endfor %}{% endfor %}
-  <div class="chips" aria-label="Topics">
+  <div class="chips" aria-label="Thèmes">
     {%- for t in allTags | sort %}<button type="button" class="chip" data-tag="{{ t }}">{{ t }}</button>{% endfor %}
   </div>
   <p class="count" aria-live="polite"><span id="count">{{ collections.photos.length }}</span> photos<span id="filter-note"></span></p>
@@ -21,7 +21,7 @@ mainClass: wrap wrap--wide
 <div class="grid" id="grid">
   {%- for photo in collections.photos %}{% galleryThumb photo %}{% endfor %}
 </div>
-<p class="empty" id="empty" hidden>No photos match that search.</p>
+<p class="empty" id="empty" hidden>Aucune photo ne correspond à cette recherche.</p>
 
 <script>
 (function () {
@@ -53,7 +53,7 @@ mainClass: wrap wrap--wide
   }
 
   if (post) {
-    note.innerHTML = ' from one post · <a href="{{ '/gallery/' | url }}">show all</a>';
+    note.innerHTML = ' d\'un seul article · <a href="{{ '/gallery/' | url }}">tout afficher</a>';
   }
   input.value = params.get("q") || "";
   input.addEventListener("input", apply);

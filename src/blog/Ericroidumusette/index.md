@@ -1,4 +1,4 @@
-## Eric,roi du musette
+## Eric, roi du musette
 
 ![](img00206.jpeg)
 

@@ -12,8 +12,8 @@ eleventyComputed:
 <figure class="photo">
   <div class="photo__frame">
     {% photoLarge photo %}
-    {%- if photo.prev %}<a class="photo__arrow photo__arrow--prev" href="/gallery/{{ photo.prev }}/" rel="prev" aria-label="Previous photo">‹</a>{% endif %}
-    {%- if photo.next %}<a class="photo__arrow photo__arrow--next" href="/gallery/{{ photo.next }}/" rel="next" aria-label="Next photo">›</a>{% endif %}
+    {%- if photo.prev %}<a class="photo__arrow photo__arrow--prev" href="/gallery/{{ photo.prev }}/" rel="prev" aria-label="Photo précédente">‹</a>{% endif %}
+    {%- if photo.next %}<a class="photo__arrow photo__arrow--next" href="/gallery/{{ photo.next }}/" rel="next" aria-label="Photo suivante">›</a>{% endif %}
   </div>
   <figcaption class="photo__info">
     <div>
@@ -21,11 +21,11 @@ eleventyComputed:
       <p class="meta">{{ photo.date | readableDate }}{% for t in photo.tags %} · <a href="/gallery/?q={{ t | urlencode }}">{{ t }}</a>{% endfor %}</p>
     </div>
     <div class="photo__posts">
-      <p class="label">Appears in</p>
+      <p class="label">Apparaît dans</p>
       <ul>
         {%- for p in photo.posts %}<li><a href="{{ p.url }}">{{ p.title }}</a></li>{% endfor %}
       </ul>
-      <p class="photo__actions"><a href="/gallery/" rel="up">← Back to the gallery</a> · <a href="{% photoFullUrl photo %}">Full size</a></p>
+      <p class="photo__actions"><a href="/gallery/" rel="up">← Retour à la galerie</a> · <a href="{% photoFullUrl photo %}">Taille réelle</a></p>
     </div>
   </figcaption>
 </figure>

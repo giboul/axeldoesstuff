@@ -4,3 +4,5 @@
 
 Il n'est pas répertorié dans la descendance familiale, mais il est d'une belle lignée et c'etait le partenaire d'Emmanuelle dans ce championnat. C'est un selle français par Royal Feu de 8 ans. Nous l'adoptons!
 
+![Super look Manu.](img00220.jpeg)
+

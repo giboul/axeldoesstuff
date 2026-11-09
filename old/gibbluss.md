@@ -499,10 +499,6 @@ Anita la "mère" mennonite de Loly. Un coeur d'or et une fameuse cuisinière.
 
 Philippe vient de créer un nouveau moyen de transport, écologique et économique. Deux velos assemblés latéralement avec des barres en acier. Idéal pour des jeunes fiançés promenant future belle-maman! Il parait que le succès de curiosité est assuré. Pour la photo, Philippe et Alix ont préféré promener Axel, c'est le plus léger de la famille. Tous vos commentaires sur cet "engin" seront les bienvenus.
 
-## Yveline et Sophie
-
-![](gibblus/images/img00086.jpeg)
-
 ## Cédric
 
 ![](gibblus/images/img00087.jpeg)
@@ -557,31 +553,27 @@ Sylvie Waille (épouse d' Eric) et leur fils Maxime au bord du lac léman. Appar
 
 Sophie (fille de Daniel et Yveline) et Samuel. Y aurait-il mariage sous roches?
 
-## Emmanuelle Mathey
-
-![](gibblus/images/img00097.jpeg)
-
-Petite fille de Monique et fille de Michèle Mathey, avec mon arrière petite fille Faline lol (Monique).
-
 ## Roland, Cédric et Acouna - Aérodrome de Lognes - 2003
 
 ![](gibblus/images/img00098.jpeg)
 
-## Emmanuelle Mathey, 4eme au championnat de France d'équitation
+## Emmanuelle Mathey
 
-![](gibblus/images/img00099.jpeg)
+![Petite fille de Monique et fille de Michèle Mathey, avec mon arrière petite fille Faline lol (Monique).](gibblus/images/img00097.jpeg)
+
+![Emmanuelle Mathey, 4eme au championnat de France d'équitation](gibblus/images/img00099.jpeg)
 
 Championnat de France 21 juillet 2008. Emmanuelle montait son cheval pour la premiere fois en compétition. Voilà un résultat qui laisse bien présager de l'avenir. Bravo Emmanuelle,une caresse à Mahel du Haut-Bois.
 
-## Emmanuelle et son dipôme
-
-![](gibblus/images/img00100.jpeg)
+![Emmanuelle et son dipôme](gibblus/images/img00100.jpeg)
 
 ## Mahel du Haut-Bois
 
 ![](gibblus/images/img00101.jpeg)
 
 Il n'est pas répertorié dans la descendance familiale, mais il est d'une belle lignée et c'etait le partenaire d'Emmanuelle dans ce championnat. C'est un selle français par Royal Feu de 8 ans. Nous l'adoptons!
+
+![Super look Manu.](gibblus/images/img00220.jpeg)
 
 ## Rémi
 
@@ -687,25 +679,19 @@ course à la brouette
 
 En premier plan Lucie et Mathis Fallot, au second plan Alexis et Elise enfants d'Emmanuel Giboulot et Catia.
 
-## Yumi
-
-![](gibblus/images/img00121.jpeg)
-
-Yumi Waille, fille de Pierrick Waille (second fils de yves Waille) et de Kim Karen Paternostre.
-
-## Yumi 2
-
-![](gibblus/images/img00122.jpeg)
-
-Toujours Yumi, mignonne comme sa maman.
-
-## Gabriel, né le 19 Juin 2010, fils de Pierrick et Kim Waille
-
-![](gibblus/images/img00123.jpeg)
-
 ## Yumi et Gabriel
 
-![](gibblus/images/img00124.jpeg)
+![Yumi Waille, fille de Pierrick Waille (second fils de yves Waille) et de Kim Karen Paternostre.](gibblus/images/img00121.jpeg)
+
+![Toujours Yumi, mignonne comme sa maman.](gibblus/images/img00122.jpeg)
+
+![Gabriel, né le 19 Juin 2010, fils de Pierrick et Kim Waille](gibblus/images/img00123.jpeg)
+
+![Yumi et Gabriel](gibblus/images/img00124.jpeg)
+
+![Yumi et son petit nounours](gibblus/images/img00142.jpeg) 
+
+![Yumi et son gros nounours](gibblus/images/img00143.jpeg)
 
 ## Gérard et Roland, aux 50 ans de Daniel et Yveline
 
@@ -769,18 +755,9 @@ Sur la côte pacifique du Mexique avec Loly, Axel, Alix et Vénus - Août 2008
 
 ![](gibblus/images/img00138.jpeg)
 
-## Loly,Alix et Axel, en visite au canyon del Peguis
+## Loly, Alix et Axel, en visite au canyon del Peguis
 
 ![](gibblus/images/img00139.jpeg)
-
-
-## Yumi et son petit nounours
-
-![](gibblus/images/img00142.jpeg)
-
-## Yumi et son gros nounours
-
-![](gibblus/images/img00143.jpeg)
 
 ## Sur-Les-Roches, le balcon de Monique et de Jacky - 15 Décembre 2008
 
@@ -904,13 +881,25 @@ Après leur mariage, Sophie et Samuel ont eu une idée tres personnelle de symbo
 
 ![Michèle, Yves et Gisèle.](gibblus/images/img00178.jpeg)
 
-## Axel karaté, Juin 2009
+## Axel
 
-![](gibblus/images/img00179.jpeg)
+![Axel karaté, Juin 2009](gibblus/images/img00179.jpeg)
 
-## Alix et son papy Roland Juin 2009
+![Axel, champion du Var de karaté - 14 Novembre 2010](gibblus/images/img00196.jpeg)
 
-![](gibblus/images/img00180.jpeg)
+![Axel (en bleu)dans ses oeuvres, d'abord un bon direct du droit...](gibblus/images/img00197.jpeg)
+
+![... suivi d'un bon direct du gauche...](gibblus/images/img00198.jpeg)
+
+![Axel, assoiffé à Genève](gibblus/images/img00230.jpeg)
+
+![Axel, champion du Var de ping-pong - Mai 2014](gibblus/images/img00263.jpeg)
+
+![Axel, medaille de bronze en finale des championnats de France par classement de tennis de table](gibblus/images/img00272.jpeg)
+
+![Axel, une nouvelle fois champion du Var](gibblus/images/img00284.jpeg)
+
+![Axel, champion de France par équipe UNSS](gibblus/images/img00285.jpeg)
 
 ## Une partie de la famille Waille à l'anniversaire de Michèle
 
@@ -918,7 +907,7 @@ Après leur mariage, Sophie et Samuel ont eu une idée tres personnelle de symbo
 
 Manquent à l'appel: Franck, Pierrick Kim et Yumi, Sophie, Sam et Fabien.
 
-## les 4 Giboulot - Retrouvailles de Philippe et de Cédric à Fréjus - Novembre 2009
+## Les 4 Giboulot - Retrouvailles de Philippe et de Cédric à Fréjus - Novembre 2009
 
 ![](gibblus/images/img00182.jpeg)
 
@@ -973,14 +962,6 @@ Souvenir de vacances à Frejus, 25 Août 2010.
 
 ![](gibblus/images/img00210.jpeg)
 
-## Axel, champion du Var de karaté - 14 Novembre 2010
-
-![](gibblus/images/img00196.jpeg)
-
-![Axel (en bleu)dans ses oeuvres, d'abord un bon direct du droit...](gibblus/images/img00197.jpeg)
-
-![... suivi d'un bon direct du gauche...](gibblus/images/img00198.jpeg)
-
 ## Alix, Axel Noël 2010
 
 ![](gibblus/images/img00199.jpeg)
@@ -1013,11 +994,7 @@ Photo prise par Fabien Colin dans le cadre de ses activités professionnelles.
 
 En opération au sommet de l'OTAN.
 
-## Yveline et Daniel
-
-![Toujours aussi amoureux... de la randonnée.](gibblus/images/img00205.jpeg)
-
-## Eric,broi du musette
+## Eric, roi du musette
 
 ![](gibblus/images/img00206.jpeg)
 
@@ -1075,17 +1052,13 @@ Chez Caroline et Pascal, à Rang, le 17 Août 2011.
 
 Régine, épouse de Denis et Nathalie, compagne de Didier Figent.
 
-## Emmanuelle Mathey, Manu
-
-![](gibblus/images/img00220.jpeg)
-
-Super look Manu.
-
 ## Luka, arrière petit fils de Monique et Jacky Heisser
 
 ![](gibblus/images/img00221.jpeg)
 
 Luka, fils de Remy Mathey et d'Amandine Laurency, né le 8 juin 2011.
+
+![Luka et son copain Eliot](gibblus/images/img00275.jpeg)
 
 ## Samuel et Mathilde 2
 
@@ -1123,17 +1096,17 @@ A gauche de Monique, sa fille Michèle et son petit-fils Rémy.
 
 ## Yveline, Daniel et leur petite Juliette à la neige
 
-![](gibblus/images/img00228.jpeg)
+![Toujours aussi amoureux... de la randonnée.](gibblus/images/img00205.jpeg)
 
-Mais ou est donc passé le chien...
+![Mais ou est donc passé le chien...](gibblus/images/img00228.jpeg)
+
+## Yveline et Sophie
+
+![](gibblus/images/img00086.jpeg)
 
 ## Pause casse-crôute pour les pilotes du Mustang, Cédric et son collegue Christophe.
 
 ![](gibblus/images/img00229.jpeg)
-
-## Axel,nassoiffé à Genève
-
-![](gibblus/images/img00230.jpeg)
 
 ## Pique-nique à la serre
 
@@ -1147,9 +1120,9 @@ Mais ou est donc passé le chien...
 
 ![](gibblus/images/img00233.jpeg)
 
-## Journée Sagesse Amerindienne. Le grand Sachem Titi invoquant les Esprits, accompagné par un tambour indien
+## Journée Sagesse Amerindienne
 
-![](gibblus/images/img00234.jpeg)
+![Le grand Sachem Titi invoquant les Esprits, accompagné par un tambour indien.](gibblus/images/img00234.jpeg)
 
 ## Pierrick et son fils Gabriel, chez son père Titi Waille
 
@@ -1217,13 +1190,13 @@ Sur la route de Barcelone - Decembre 2012 - Loly, Axel, Alix, Philippe
 
 ![](gibblus/images/img00251.jpeg)
 
-## Emmanuelle, au dressage
+## Emmanuelle
 
-![](gibblus/images/img00252.jpeg)
+![Emmanuelle, au dressage.](gibblus/images/img00252.jpeg)
 
-## Emmanuelle Mathey et son neveu Luka
+![Emmanuelle Mathey et son neveu Luka.](gibblus/images/img00253.jpeg)
 
-![](gibblus/images/img00253.jpeg)
+![Emmanuelle presentant la jument Anka à la foire comtoise de Besançon.](gibblus/images/img00277.jpeg)
 
 ## Sylvie et Eric, entourés par leur fan clubs, fêtant leurs 50 ans
 
@@ -1261,13 +1234,9 @@ Les enfants de Caroline et de Pascal Fallot.
 
 ## Famille Cange
 
-![](gibblus/images/img00262.jpeg)
+![Samuel et Gabin, Sophie et Juliette - Avril ou Mai 2014](gibblus/images/img00262.jpeg)
 
-Samuel et Gabin, Sophie et Juliette - Avril ou Mai 2014
 
-## Axel, champion du Var de ping-pong - Mai 2014
-
-![](gibblus/images/img00263.jpeg)
 
 ## Alix et le bébé lion - Juillet 2014
 
@@ -1301,10 +1270,6 @@ Samuel et Gabin, Sophie et Juliette - Avril ou Mai 2014
 
 ![](gibblus/images/img00271.jpeg)
 
-## Axel, medaille de bronze en finale des championnats de France par classement de tennis de table
-
-![](gibblus/images/img00272.jpeg)
-
 ## Cédric en Inde - 04 Juillet 2015
 
 ![](gibblus/images/img00273.jpeg)
@@ -1313,17 +1278,9 @@ Samuel et Gabin, Sophie et Juliette - Avril ou Mai 2014
 
 ![](gibblus/images/img00274.jpeg)
 
-## Luka, fils de Remy et son copain Eliot
-
-![](gibblus/images/img00275.jpeg)
-
 ## Monique et Luka avec Eliot et Balou
 
 ![](gibblus/images/img00276.jpeg)
-
-## Emmanuelle presentant la jument Anka à la foire comtoise de Besançon
-
-![](gibblus/images/img00277.jpeg)
 
 ## La famille Colin de retour à Tahiti. Fabien, Daniel, Yveline.
 
@@ -1345,17 +1302,11 @@ Samuel et Gabin, Sophie et Juliette - Avril ou Mai 2014
 
 ![](gibblus/images/img00282.jpeg)
 
-## Alix et Rolland - Saint-Raphaël - 1er Janvier 2016
+## Alix et Rolland
 
-![](gibblus/images/img00283.jpeg)
+![Saint-Raphaël - 1er Janvier 2016](gibblus/images/img00283.jpeg)
 
-## Axel, une nouvelle fois champion du Var
-
-![](gibblus/images/img00284.jpeg)
-
-## Axel, champion de France par équipe UNSS
-
-![](gibblus/images/img00285.jpeg)
+![Alix et son papy Roland Juin 2009](gibblus/images/img00180.jpeg)
 
 ## Coupe d'europe de Force Grenoble - Avril 2017
 

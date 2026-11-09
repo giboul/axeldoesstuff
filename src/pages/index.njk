@@ -9,8 +9,8 @@ bodyClass: home
 
 <section class="home-section">
   <div class="section-head">
-    <h2>Recent photos</h2>
-    <a href="/gallery/">All photos →</a>
+    <h2>Photos récentes</h2>
+    <a href="/gallery/">Toutes les photos →</a>
   </div>
   <div class="grid grid--small">
     {%- for photo in collections.photos | head(10) %}{% galleryThumb photo %}{% endfor %}
@@ -19,8 +19,8 @@ bodyClass: home
 
 <section class="home-section">
   <div class="section-head">
-    <h2>Recent posts</h2>
-    <a href="/blog/">All posts →</a>
+    <h2>Articles récents</h2>
+    <a href="/blog/">Tous les articles →</a>
   </div>
   <ul class="cards">
     {%- for post in collections.posts | head(4) %}

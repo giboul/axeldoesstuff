@@ -1,6 +1,6 @@
 ## Yveline, Daniel et leur petite Juliette à la neige
 
-![](img00228.jpeg)
+![Toujours aussi amoureux... de la randonnée.](img00205.jpeg)
 
-Mais ou est donc passé le chien...
+![Mais ou est donc passé le chien...](img00228.jpeg)
 

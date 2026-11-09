@@ -1,5 +1,4 @@
-## Loly,Alix et Axel, en visite au canyon del Peguis
+## Loly, Alix et Axel, en visite au canyon del Peguis
 
 ![](img00139.jpeg)
-
 
