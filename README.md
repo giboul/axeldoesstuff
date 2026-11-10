@@ -20,6 +20,7 @@ src/
     blog.11tydata.js        ← layout + URL for every post (/blog/some-walk/)
   pages/                    ← home, blog index, gallery, one page per photo
   _data/site.js             ← site title, author, comments settings
+  _data/genealogie.yaml     ← the family tree (page: /genealogie/)
   _includes/                ← layouts and the comments partial
   assets/style.css          ← all the styling (colours at the top)
 eleventy.config.js          ← the gallery logic
@@ -38,6 +39,12 @@ HOW-TO-WRITE-A-POST.md      ← plain-language guide for the author
 **Posts link to the gallery**: a picture in a post becomes a `<figure>` with its caption, linking to the photo's page (`/gallery/<id>/`), which links back to every post that uses it, with previous/next arrows (keyboard ← → and Esc work too).
 
 **Search**: the gallery search is instant and runs in the browser. Each thumbnail carries its caption, the titles and full text of the posts it appears in, tags, year and month, and the box matches all typed words. The topic buttons toggle a tag in the box, and the query is kept in the URL (`/gallery/?q=lake`), so tags on posts link straight to a filtered gallery.
+
+## Family tree
+
+`/genealogie/` draws the family tree from `src/_data/genealogie.yaml` (the format is explained at the top of that file): one card per person with their partner, generations in columns from left to right, one colour per branch. The page is `src/pages/genealogie.njk`, the styling is at the end of `assets/style.css`. Edit the YAML and the page follows.
+
+`old/yaml-to-gedcom.mjs` turns the same YAML into a GEDCOM file, for importing into genealogy software (Gramps, webtrees) if ever needed.
 
 ## Comments
 

@@ -21,6 +21,7 @@
       {%- set section = page.url.split("/")[1] %}
       <a href="/blog/" {% if section == "blog" %}aria-current="page"{% endif %}>Blog</a>
       <a href="/gallery/" {% if section == "gallery" %}aria-current="page"{% endif %}>Galerie</a>
+      <a href="/genealogie/" {% if section == "genealogie" %}aria-current="page"{% endif %}>Généalogie</a>
       <a href="/about/" {% if section == "about" %}aria-current="page"{% endif %}>À propos</a>
       <button class="theme-toggle" type="button" aria-label="Passer en mode clair ou sombre" title="Clair / sombre">
         <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg>

@@ -3,6 +3,7 @@ import path from "node:path";
 import crypto from "node:crypto";
 import Image, { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
+import yaml from "js-yaml";
 
 const INPUT = "src";
 const POSTS_GLOB = `${INPUT}/blog/**/*.md`;
@@ -267,6 +268,22 @@ export default function (eleventyConfig) {
     const parts = text.split(" ");
     return parts.length > words ? parts.slice(0, words).join(" ") + "…" : text;
   });
+
+  // -------------------------------------------------------------------------
+  // Family tree: src/_data/genealogie.yaml, drawn by src/pages/genealogie.njk
+  // -------------------------------------------------------------------------
+  eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+  // Names may mark the surname with slashes ("Loly /Garcia de la Cruz/"): hide them.
+  eleventyConfig.addFilter("personName", (name) => String(name || "").replace(/\//g, "").replace(/\s+/g, " ").trim());
+  // "Mireille /Giboulot/" -> "Giboulot"; without slashes, the last word
+  eleventyConfig.addFilter("surnameOf", (name) => {
+    const s = String(name || "");
+    return /\/(.*)\//.exec(s)?.[1] ?? s.trim().split(/\s+/).at(-1);
+  });
+  const countPeople = (list) => (list || []).reduce((n, p) => n + 1 + (p.partner ? 1 : 0) + countPeople(p.children), 0);
+  const depth = (list) => Math.max(0, ...(list || []).map((p) => 1 + depth(p.children)));
+  eleventyConfig.addFilter("treeCount", countPeople);
+  eleventyConfig.addFilter("treeDepth", depth);
 
   eleventyConfig.addGlobalData("currentYear", () => new Date().getFullYear());
 

@@ -1,0 +1,36 @@
+---
+title: Généalogie
+description: L'arbre de la famille Giboulot, des grands-parents aux arrière-petits-enfants.
+permalink: /genealogie/
+mainClass: wrap wrap--wide
+---
+{%- macro person(p) %}
+<li>
+  <div class="tree__card">
+    <span class="tree__name">{{ p.name | personName }}</span>
+    {%- if p.born_name %}
+    <span class="tree__born">{{ "née" if p.sex == "F" else "né" }} {{ p.born_name | surnameOf }}</span>
+    {%- endif %}
+    {%- if p.partner %}
+    <span class="tree__partner"><span class="tree__ring" aria-hidden="true">⚭</span><span class="visually-hidden">avec</span> {{ p.partner | personName }}</span>
+    {%- endif %}
+  </div>
+  {%- if p.children %}
+  <ul>
+    {%- for c in p.children %}{{ person(c) }}{% endfor %}
+  </ul>
+  {%- endif %}
+</li>
+{%- endmacro %}
+
+<header class="tree-intro">
+  <h1 class="page-title">Généalogie</h1>
+  <p>Trois branches : les descendants de Fernand, de Jacques et de Paulette Giboulot. Le récit complet, avec les dates, est dans <a href="/blog/Genealogie/">l'article Généalogie</a>.</p>
+  <p class="meta">{{ genealogie | treeCount }} personnes · {{ genealogie | treeDepth }} générations · <span aria-hidden="true">⚭</span> en couple avec</p>
+</header>
+
+<div class="tree" tabindex="0" role="region" aria-label="Arbre généalogique">
+  <ul class="tree__roots">
+    {%- for root in genealogie %}{{ person(root) }}{% endfor %}
+  </ul>
+</div>

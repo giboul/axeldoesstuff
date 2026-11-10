@@ -11,7 +11,7 @@ eleventyComputed:
 ---
 <figure class="photo">
   <div class="photo__frame">
-    {% photoLarge photo %}
+    <a class="photo__full" href="{% photoFullUrl photo %}" title="Voir en taille réelle">{% photoLarge photo %}</a>
     {%- if photo.prev %}<a class="photo__arrow photo__arrow--prev" href="/gallery/{{ photo.prev }}/" rel="prev" aria-label="Photo précédente">‹</a>{% endif %}
     {%- if photo.next %}<a class="photo__arrow photo__arrow--next" href="/gallery/{{ photo.next }}/" rel="next" aria-label="Photo suivante">›</a>{% endif %}
   </div>

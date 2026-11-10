@@ -1,0 +1,179 @@
+# Every person has the same shape:
+#   name:      the family member (always the descendant, never the in-law)
+#   sex:       M or F
+#   born_name: optional, the birth name when `name` is a married name
+#   partner:   optional, their spouse or partner
+#   partner_sex: optional, only if not the opposite of `sex`
+#   children:  optional, a list of people with this same shape
+#
+# The surname is the last word of a name. When it is not (several words, or a
+# surname alone), put it between slashes: "Loly /Garcia de la Cruz/", "/Barbier/".
+# A one-word name is a first name only.
+
+- name: Fernand Giboulot
+  sex: M
+  partner: Camille Manzinali
+  children:
+    - name: Mireille Figent
+      sex: F
+      born_name: Mireille /Giboulot/
+      partner: Marcel Figent
+      children:
+        - name: Didier Figent
+          sex: M
+          partner: Sylvie Gentet
+          children:
+            - name: Antony
+              sex: M
+            - name: Marie
+              sex: F
+        - name: Stéphane Figent
+          sex: M
+          partner: Nathalie
+          children:
+            - name: Quentin
+              sex: M
+            - name: Léo
+              sex: M
+        - name: Frédéric Figent
+          sex: M
+          partner: Irène
+    - name: Roland Giboulot
+      sex: M
+      partner: Marie-Hélène Boché
+      children:
+        - name: Philippe Giboulot
+          sex: M
+          partner: Loly /Garcia de la Cruz/
+          children:
+            - name: Alix
+              sex: F
+            - name: Axel
+              sex: M
+        - name: Cédric Giboulot
+          sex: M
+    - name: Denis Giboulot
+      sex: M
+      partner: Régine Bergeon
+      children:
+        - name: Emmanuel Giboulot
+          sex: M
+          partner: Catia Cirillo
+          children:
+            - name: Alexis
+              sex: M
+            - name: Elise
+              sex: F
+        - name: Caroline Fallot
+          sex: F
+          born_name: Caroline /Giboulot/
+          partner: Pascal Fallot
+          children:
+            - name: Lucie
+              sex: F
+            - name: Mathis
+              sex: M
+    - name: Jeanine Thomas
+      sex: F
+      born_name: Jeanine /Giboulot/
+      partner: Gérard Thomas
+      children:
+        - name: Jérôme Thomas
+          sex: M
+          partner: Vanessa Maugeri
+          children:
+            - name: Evan
+              sex: M
+            - name: Timéo
+              sex: M
+        - name: Frédérique Thomas
+          sex: F
+          partner: Philippe Couffet
+          children:
+            - name: Samuel
+              sex: M
+            - name: Mathilde
+              sex: F
+
+- name: Jacques Giboulot
+  sex: M
+  partner: Monique Heisser
+  children:
+    - name: Michèle Mathey
+      sex: F
+      born_name: Michèle /Giboulot/
+      children:
+        - name: Emmanuelle Mathey
+          sex: F
+        - name: Rémi Mathey
+          sex: M
+          partner: Amandine Laurency
+          children:
+            - name: Luka Mathey
+              sex: M
+    - name: Nelly Giboulot
+      sex: F
+      partner: /Barbier/
+      children:
+        - name: Carole Barbier
+          sex: F
+          children:
+            - name: Éric
+              sex: M
+            - name: Lucas
+              sex: M
+
+- name: Paulette Giboulot
+  sex: F
+  partner: André Waille
+  children:
+    - name: Yves Waille
+      sex: M
+      partner: Mauricette Chevalier
+      children:
+        - name: Franck
+          sex: M
+        - name: Pierrick Waille
+          sex: M
+          partner: Kim Karen Paternostre
+          children:
+            - name: Yumi
+              sex: F
+            - name: Gabriel
+              sex: M
+        - name: Agnès
+          sex: F
+    - name: Gérard Waille
+      sex: M
+      partner: Francine
+      children:
+        - name: Yveline Waille
+          sex: F
+          partner: Daniel Colin
+          children:
+            - name: Sophie Waille
+              sex: F
+              partner: Samuel Cange
+              children:
+                - name: Juliette
+                  sex: F
+                - name: Gabin
+                  sex: M
+            - name: Fabien
+              sex: M
+        - name: Catherine Waille
+          sex: F
+          partner: Philippe Faivre
+          children:
+            - name: Violette
+              sex: F
+            - name: Quentin
+              sex: M
+        - name: Éric Waille
+          sex: M
+          partner: Sylvie
+          children:
+            - name: Maxime
+              sex: M
+    - name: Michèle
+      sex: F

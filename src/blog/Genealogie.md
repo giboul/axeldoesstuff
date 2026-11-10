@@ -1,0 +1,62 @@
+---
+title: Généalogie
+---
+
+Sous ce titre, il s'agit de présenter l'ensemble des descendants de Jules Giboulot et de Jeanne Labrosse, sous une forme un peu aride mais qui permet de saisir l'ensemble des composants de la communauté dans un cadre économique en place.
+
+- Descendance de Fernand Giboulot et Camille Manzinali (05/08). De leur union, sont nés quatre enfants. Ces quatre enfants se sont mariés et ont assuré leur propre descendance :
+    - Mireille Figent Giboulot, née le 14 Fevrier 1935 à l'Isle-sur-le-Doubs, et son époux Marcel Figent, tous deux décédés.
+        - Didier Figent né le 04/04/1958 et son épouse Sylvie Gentet et leurs deux enfants :
+            - Antony, né le 19/11/89 et
+            - Marie, née le 09/04/1996.
+        - Stéphane Figent et sa compagne Nathalie et leurs deux enfants :
+            - Quentin et
+            - Léo.
+        - Frédéric Figent, époux d'Irène, décédé.
+    - Roland Giboulot né le 13/11/1936 à Blussans, divorcé de Marie-Hélene Boché :
+        - Philippe Giboulot né le 28/12/1966 et son épouse Loly Garcia Della Cruz née le 16/07/1962, et leurs deux enfants :
+            - Alix Giboulot, née le 03//06/1995 à Genolier (Vaud, Suisse), et
+            - Axel Giboulot, né le 10/04/2001 à Meyrin (Genève, Suisse).
+        - Cédric Giboulot, né le 31/10/1973.
+    - Denis Giboulot né le 27/09/1942 à l'Isle-sur-le-Doubs et son épouse Régine Bergeon née le 21/07/1947 et leurs enfants :    
+        - Emmanuel Giboulot, né le 13/04/1972 et sa compagne Catia Cirillo, née le 03/06/72 et leurs deux enfants:
+            - Alexis, né le 02/05/2004, et
+            - Elise, née le 25/06/2006.
+        - Caroline Fallot Giboulot, née le 27/03/1977 et son époux Pascal Fallot, né le 20/06/1972 et leurs enfants
+            - Lucie Fallot, née le 23/09/2004, et
+            - Mathis Fallot, né le 29/05/2007.
+    - Jeanine Thomas Giboulot, née le 21/04/1945 à l'Isle-sur-le-Doubs, et son époux Gérard Thomas (décédé)
+        - Jérôme Thomas et son épouse Vanessa Maugeri et leurs deux enfants:
+            - Evan Thomas et
+            - Timéo Thomas.
+        - Frédérique Thomas et son compagnon Philippe Couffet et leurs enfants:
+            - Samuel Thomas et
+            - Mathilde Thomas.
+- Descendance de Jacques Giboulot (Jacky, Jacquot ?) et Monique Heisser (Seloncourt) :
+    - Michèle Mathey Giboulot,
+        - Emmanuelle Mathey,
+        - Rémi Mathey et Amandine Laurency.
+            - Luka Mathey.
+    - Nelly Giboulot et (?) Barbier.
+        - Carole Barbier.
+            - Éric
+            - Lucas
+- Descendance de Paulette Giboulot (Poligny) et André Waille :
+    - Yves Waille, époux de Mauriçette Chevalier
+        - Franck Waille,
+        - Pierrick Waille, mari de Kim Karen Paternostre (?),
+            - Yumi Waille,
+            - Gabriel Waille (19 Juin 2010).
+        - Agnès Waille.
+    - Gérard Waille, mari de Françine (nom de famille?),
+        - Yveline Waille, mariée à Daniel Colin,
+            - Sophie Waille, mariée à Samuel Cange,
+                - Juliette Cange,
+                - Gabin Cange (31 Mars 2014).
+            - Fabien Waille.
+        - Catherine Waille, mariée à Philippe Faivre,
+            - Violette Faivre,
+            - Quentin Faivre.
+        - Éric Waille, mari de Sylvie.
+            - Maxime Waille.
+    - Michèle Waille.

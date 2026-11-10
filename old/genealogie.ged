@@ -1,0 +1,653 @@
+0 HEAD
+1 SOUR yaml-to-gedcom
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG French
+0 @I1@ INDI
+1 NAME Fernand /Giboulot/
+2 GIVN Fernand
+2 SURN Giboulot
+1 SEX M
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Camille /Manzinali/
+2 GIVN Camille
+2 SURN Manzinali
+1 SEX F
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Mireille /Giboulot/
+2 GIVN Mireille
+2 SURN Giboulot
+2 TYPE birth
+1 NAME Mireille /Figent/
+2 GIVN Mireille
+2 SURN Figent
+2 TYPE married
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F2@
+0 @I4@ INDI
+1 NAME Marcel /Figent/
+2 GIVN Marcel
+2 SURN Figent
+1 SEX M
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME Didier /Figent/
+2 GIVN Didier
+2 SURN Figent
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F3@
+0 @I6@ INDI
+1 NAME Sylvie /Gentet/
+2 GIVN Sylvie
+2 SURN Gentet
+1 SEX F
+1 FAMS @F3@
+0 @I7@ INDI
+1 NAME Antony /Figent/
+2 GIVN Antony
+2 SURN Figent
+1 SEX M
+1 FAMC @F3@
+0 @I8@ INDI
+1 NAME Marie /Figent/
+2 GIVN Marie
+2 SURN Figent
+1 SEX F
+1 FAMC @F3@
+0 @I9@ INDI
+1 NAME Stéphane /Figent/
+2 GIVN Stéphane
+2 SURN Figent
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F4@
+0 @I10@ INDI
+1 NAME Nathalie //
+2 GIVN Nathalie
+1 SEX F
+1 FAMS @F4@
+0 @I11@ INDI
+1 NAME Quentin /Figent/
+2 GIVN Quentin
+2 SURN Figent
+1 SEX M
+1 FAMC @F4@
+0 @I12@ INDI
+1 NAME Léo /Figent/
+2 GIVN Léo
+2 SURN Figent
+1 SEX M
+1 FAMC @F4@
+0 @I13@ INDI
+1 NAME Frédéric /Figent/
+2 GIVN Frédéric
+2 SURN Figent
+1 SEX M
+1 FAMC @F2@
+1 FAMS @F5@
+0 @I14@ INDI
+1 NAME Irène //
+2 GIVN Irène
+1 SEX F
+1 FAMS @F5@
+0 @I15@ INDI
+1 NAME Roland /Giboulot/
+2 GIVN Roland
+2 SURN Giboulot
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F6@
+0 @I16@ INDI
+1 NAME Marie-Hélène /Boché/
+2 GIVN Marie-Hélène
+2 SURN Boché
+1 SEX F
+1 FAMS @F6@
+0 @I17@ INDI
+1 NAME Philippe /Giboulot/
+2 GIVN Philippe
+2 SURN Giboulot
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F7@
+0 @I18@ INDI
+1 NAME Loly /Garcia de la Cruz/
+2 GIVN Loly
+2 SURN Garcia de la Cruz
+1 SEX F
+1 FAMS @F7@
+0 @I19@ INDI
+1 NAME Alix /Giboulot/
+2 GIVN Alix
+2 SURN Giboulot
+1 SEX F
+1 FAMC @F7@
+0 @I20@ INDI
+1 NAME Axel /Giboulot/
+2 GIVN Axel
+2 SURN Giboulot
+1 SEX M
+1 FAMC @F7@
+0 @I21@ INDI
+1 NAME Cédric /Giboulot/
+2 GIVN Cédric
+2 SURN Giboulot
+1 SEX M
+1 FAMC @F6@
+0 @I22@ INDI
+1 NAME Denis /Giboulot/
+2 GIVN Denis
+2 SURN Giboulot
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F8@
+0 @I23@ INDI
+1 NAME Régine /Bergeon/
+2 GIVN Régine
+2 SURN Bergeon
+1 SEX F
+1 FAMS @F8@
+0 @I24@ INDI
+1 NAME Emmanuel /Giboulot/
+2 GIVN Emmanuel
+2 SURN Giboulot
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F9@
+0 @I25@ INDI
+1 NAME Catia /Cirillo/
+2 GIVN Catia
+2 SURN Cirillo
+1 SEX F
+1 FAMS @F9@
+0 @I26@ INDI
+1 NAME Alexis /Giboulot/
+2 GIVN Alexis
+2 SURN Giboulot
+1 SEX M
+1 FAMC @F9@
+0 @I27@ INDI
+1 NAME Elise /Giboulot/
+2 GIVN Elise
+2 SURN Giboulot
+1 SEX F
+1 FAMC @F9@
+0 @I28@ INDI
+1 NAME Caroline /Giboulot/
+2 GIVN Caroline
+2 SURN Giboulot
+2 TYPE birth
+1 NAME Caroline /Fallot/
+2 GIVN Caroline
+2 SURN Fallot
+2 TYPE married
+1 SEX F
+1 FAMC @F8@
+1 FAMS @F10@
+0 @I29@ INDI
+1 NAME Pascal /Fallot/
+2 GIVN Pascal
+2 SURN Fallot
+1 SEX M
+1 FAMS @F10@
+0 @I30@ INDI
+1 NAME Lucie /Fallot/
+2 GIVN Lucie
+2 SURN Fallot
+1 SEX F
+1 FAMC @F10@
+0 @I31@ INDI
+1 NAME Mathis /Fallot/
+2 GIVN Mathis
+2 SURN Fallot
+1 SEX M
+1 FAMC @F10@
+0 @I32@ INDI
+1 NAME Jeanine /Giboulot/
+2 GIVN Jeanine
+2 SURN Giboulot
+2 TYPE birth
+1 NAME Jeanine /Thomas/
+2 GIVN Jeanine
+2 SURN Thomas
+2 TYPE married
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F11@
+0 @I33@ INDI
+1 NAME Gérard /Thomas/
+2 GIVN Gérard
+2 SURN Thomas
+1 SEX M
+1 FAMS @F11@
+0 @I34@ INDI
+1 NAME Jérôme /Thomas/
+2 GIVN Jérôme
+2 SURN Thomas
+1 SEX M
+1 FAMC @F11@
+1 FAMS @F12@
+0 @I35@ INDI
+1 NAME Vanessa /Maugeri/
+2 GIVN Vanessa
+2 SURN Maugeri
+1 SEX F
+1 FAMS @F12@
+0 @I36@ INDI
+1 NAME Evan /Thomas/
+2 GIVN Evan
+2 SURN Thomas
+1 SEX M
+1 FAMC @F12@
+0 @I37@ INDI
+1 NAME Timéo /Thomas/
+2 GIVN Timéo
+2 SURN Thomas
+1 SEX M
+1 FAMC @F12@
+0 @I38@ INDI
+1 NAME Frédérique /Thomas/
+2 GIVN Frédérique
+2 SURN Thomas
+1 SEX F
+1 FAMC @F11@
+1 FAMS @F13@
+0 @I39@ INDI
+1 NAME Philippe /Couffet/
+2 GIVN Philippe
+2 SURN Couffet
+1 SEX M
+1 FAMS @F13@
+0 @I40@ INDI
+1 NAME Samuel /Couffet/
+2 GIVN Samuel
+2 SURN Couffet
+1 SEX M
+1 FAMC @F13@
+0 @I41@ INDI
+1 NAME Mathilde /Couffet/
+2 GIVN Mathilde
+2 SURN Couffet
+1 SEX F
+1 FAMC @F13@
+0 @I42@ INDI
+1 NAME Jacques /Giboulot/
+2 GIVN Jacques
+2 SURN Giboulot
+1 SEX M
+1 FAMS @F14@
+0 @I43@ INDI
+1 NAME Monique /Heisser/
+2 GIVN Monique
+2 SURN Heisser
+1 SEX F
+1 FAMS @F14@
+0 @I44@ INDI
+1 NAME Michèle /Giboulot/
+2 GIVN Michèle
+2 SURN Giboulot
+2 TYPE birth
+1 NAME Michèle /Mathey/
+2 GIVN Michèle
+2 SURN Mathey
+2 TYPE married
+1 SEX F
+1 FAMC @F14@
+1 FAMS @F15@
+0 @I45@ INDI
+1 NAME Emmanuelle /Mathey/
+2 GIVN Emmanuelle
+2 SURN Mathey
+1 SEX F
+1 FAMC @F15@
+0 @I46@ INDI
+1 NAME Rémi /Mathey/
+2 GIVN Rémi
+2 SURN Mathey
+1 SEX M
+1 FAMC @F15@
+1 FAMS @F16@
+0 @I47@ INDI
+1 NAME Amandine /Laurency/
+2 GIVN Amandine
+2 SURN Laurency
+1 SEX F
+1 FAMS @F16@
+0 @I48@ INDI
+1 NAME Luka /Mathey/
+2 GIVN Luka
+2 SURN Mathey
+1 SEX M
+1 FAMC @F16@
+0 @I49@ INDI
+1 NAME Nelly /Giboulot/
+2 GIVN Nelly
+2 SURN Giboulot
+1 SEX F
+1 FAMC @F14@
+1 FAMS @F17@
+0 @I50@ INDI
+1 NAME /Barbier/
+2 SURN Barbier
+1 SEX M
+1 FAMS @F17@
+0 @I51@ INDI
+1 NAME Carole /Barbier/
+2 GIVN Carole
+2 SURN Barbier
+1 SEX F
+1 FAMC @F17@
+1 FAMS @F18@
+0 @I52@ INDI
+1 NAME Éric //
+2 GIVN Éric
+1 SEX M
+1 FAMC @F18@
+0 @I53@ INDI
+1 NAME Lucas //
+2 GIVN Lucas
+1 SEX M
+1 FAMC @F18@
+0 @I54@ INDI
+1 NAME Paulette /Giboulot/
+2 GIVN Paulette
+2 SURN Giboulot
+1 SEX F
+1 FAMS @F19@
+0 @I55@ INDI
+1 NAME André /Waille/
+2 GIVN André
+2 SURN Waille
+1 SEX M
+1 FAMS @F19@
+0 @I56@ INDI
+1 NAME Yves /Waille/
+2 GIVN Yves
+2 SURN Waille
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F20@
+0 @I57@ INDI
+1 NAME Mauricette /Chevalier/
+2 GIVN Mauricette
+2 SURN Chevalier
+1 SEX F
+1 FAMS @F20@
+0 @I58@ INDI
+1 NAME Franck /Waille/
+2 GIVN Franck
+2 SURN Waille
+1 SEX M
+1 FAMC @F20@
+0 @I59@ INDI
+1 NAME Pierrick /Waille/
+2 GIVN Pierrick
+2 SURN Waille
+1 SEX M
+1 FAMC @F20@
+1 FAMS @F21@
+0 @I60@ INDI
+1 NAME Kim Karen /Paternostre/
+2 GIVN Kim Karen
+2 SURN Paternostre
+1 SEX F
+1 FAMS @F21@
+0 @I61@ INDI
+1 NAME Yumi /Waille/
+2 GIVN Yumi
+2 SURN Waille
+1 SEX F
+1 FAMC @F21@
+0 @I62@ INDI
+1 NAME Gabriel /Waille/
+2 GIVN Gabriel
+2 SURN Waille
+1 SEX M
+1 FAMC @F21@
+0 @I63@ INDI
+1 NAME Agnès /Waille/
+2 GIVN Agnès
+2 SURN Waille
+1 SEX F
+1 FAMC @F20@
+0 @I64@ INDI
+1 NAME Gérard /Waille/
+2 GIVN Gérard
+2 SURN Waille
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F22@
+0 @I65@ INDI
+1 NAME Francine //
+2 GIVN Francine
+1 SEX F
+1 FAMS @F22@
+0 @I66@ INDI
+1 NAME Yveline /Waille/
+2 GIVN Yveline
+2 SURN Waille
+1 SEX F
+1 FAMC @F22@
+1 FAMS @F23@
+0 @I67@ INDI
+1 NAME Daniel /Colin/
+2 GIVN Daniel
+2 SURN Colin
+1 SEX M
+1 FAMS @F23@
+0 @I68@ INDI
+1 NAME Sophie /Waille/
+2 GIVN Sophie
+2 SURN Waille
+1 SEX F
+1 FAMC @F23@
+1 FAMS @F24@
+0 @I69@ INDI
+1 NAME Samuel /Cange/
+2 GIVN Samuel
+2 SURN Cange
+1 SEX M
+1 FAMS @F24@
+0 @I70@ INDI
+1 NAME Juliette /Cange/
+2 GIVN Juliette
+2 SURN Cange
+1 SEX F
+1 FAMC @F24@
+0 @I71@ INDI
+1 NAME Gabin /Cange/
+2 GIVN Gabin
+2 SURN Cange
+1 SEX M
+1 FAMC @F24@
+0 @I72@ INDI
+1 NAME Fabien /Waille/
+2 GIVN Fabien
+2 SURN Colin
+1 SEX M
+1 FAMC @F23@
+0 @I73@ INDI
+1 NAME Catherine /Waille/
+2 GIVN Catherine
+2 SURN Waille
+1 SEX F
+1 FAMC @F22@
+1 FAMS @F25@
+0 @I74@ INDI
+1 NAME Philippe /Faivre/
+2 GIVN Philippe
+2 SURN Faivre
+1 SEX M
+1 FAMS @F25@
+0 @I75@ INDI
+1 NAME Violette /Faivre/
+2 GIVN Violette
+2 SURN Faivre
+1 SEX F
+1 FAMC @F25@
+0 @I76@ INDI
+1 NAME Quentin /Faivre/
+2 GIVN Quentin
+2 SURN Faivre
+1 SEX M
+1 FAMC @F25@
+0 @I77@ INDI
+1 NAME Éric /Waille/
+2 GIVN Éric
+2 SURN Waille
+1 SEX M
+1 FAMC @F22@
+1 FAMS @F26@
+0 @I78@ INDI
+1 NAME Sylvie //
+2 GIVN Sylvie
+1 SEX F
+1 FAMS @F26@
+0 @I79@ INDI
+1 NAME Maxime /Waille/
+2 GIVN Maxime
+2 SURN Waille
+1 SEX M
+1 FAMC @F26@
+0 @I80@ INDI
+1 NAME Michèle /Waille/
+2 GIVN Michèle
+2 SURN Waille
+1 SEX F
+1 FAMC @F19@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I15@
+1 CHIL @I22@
+1 CHIL @I32@
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I3@
+1 CHIL @I5@
+1 CHIL @I9@
+1 CHIL @I13@
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I7@
+1 CHIL @I8@
+0 @F4@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+0 @F5@ FAM
+1 HUSB @I13@
+1 WIFE @I14@
+0 @F6@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I17@
+1 CHIL @I21@
+0 @F7@ FAM
+1 HUSB @I17@
+1 WIFE @I18@
+1 CHIL @I19@
+1 CHIL @I20@
+0 @F8@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I24@
+1 CHIL @I28@
+0 @F9@ FAM
+1 HUSB @I24@
+1 WIFE @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+0 @F10@ FAM
+1 HUSB @I29@
+1 WIFE @I28@
+1 CHIL @I30@
+1 CHIL @I31@
+0 @F11@ FAM
+1 HUSB @I33@
+1 WIFE @I32@
+1 CHIL @I34@
+1 CHIL @I38@
+0 @F12@ FAM
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I36@
+1 CHIL @I37@
+0 @F13@ FAM
+1 HUSB @I39@
+1 WIFE @I38@
+1 CHIL @I40@
+1 CHIL @I41@
+0 @F14@ FAM
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I44@
+1 CHIL @I49@
+0 @F15@ FAM
+1 WIFE @I44@
+1 CHIL @I45@
+1 CHIL @I46@
+0 @F16@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I48@
+0 @F17@ FAM
+1 HUSB @I50@
+1 WIFE @I49@
+1 CHIL @I51@
+0 @F18@ FAM
+1 WIFE @I51@
+1 CHIL @I52@
+1 CHIL @I53@
+0 @F19@ FAM
+1 HUSB @I55@
+1 WIFE @I54@
+1 CHIL @I56@
+1 CHIL @I64@
+1 CHIL @I80@
+0 @F20@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I58@
+1 CHIL @I59@
+1 CHIL @I63@
+0 @F21@ FAM
+1 HUSB @I59@
+1 WIFE @I60@
+1 CHIL @I61@
+1 CHIL @I62@
+0 @F22@ FAM
+1 HUSB @I64@
+1 WIFE @I65@
+1 CHIL @I66@
+1 CHIL @I73@
+1 CHIL @I77@
+0 @F23@ FAM
+1 HUSB @I67@
+1 WIFE @I66@
+1 CHIL @I68@
+1 CHIL @I72@
+0 @F24@ FAM
+1 HUSB @I69@
+1 WIFE @I68@
+1 CHIL @I70@
+1 CHIL @I71@
+0 @F25@ FAM
+1 HUSB @I74@
+1 WIFE @I73@
+1 CHIL @I75@
+1 CHIL @I76@
+0 @F26@ FAM
+1 HUSB @I77@
+1 WIFE @I78@
+1 CHIL @I79@
+0 TRLR
