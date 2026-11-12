@@ -15,4 +15,4 @@ Ce site est maintenu par Axel Giboulot
 
 +41 78 347 27 87
 
-axelgibtt@gmil.com
+axelgibtt@gmail.com
